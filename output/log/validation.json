@@ -1,0 +1,208 @@
+{
+  "generated_at": "2026-06-11 12:32:56",
+  "input_entries": 28,
+  "unique_urls": 28,
+  "valid_entries": 19,
+  "valid_channels": 15,
+  "invalid_entries": [
+    {
+      "channel": "CCTV-10",
+      "url": "https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8",
+      "error": "https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8: Server returned 403 Forbidden (access denied)"
+    },
+    {
+      "channel": "CCTV-13",
+      "url": "https://cdn3.163189.xyz/163189/cctv13",
+      "error": "https://cdn3.163189.xyz/163189/cctv13: Server returned 5XX Server Error reply"
+    },
+    {
+      "channel": "CCTV-13",
+      "url": "http://go.bkpcp.top/mg/cctv13",
+      "error": "http://go.bkpcp.top/mg/cctv13: Invalid data found when processing input"
+    },
+    {
+      "channel": "CCTV-9",
+      "url": "https://xykt-fix.github.io/Y77.m3u8",
+      "error": "no video packets received"
+    },
+    {
+      "channel": "北京卫视",
+      "url": "http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8",
+      "error": "http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8: Error number -138 occurred"
+    },
+    {
+      "channel": "四川卫视",
+      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8",
+      "error": "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8: Error number -138 occurred"
+    },
+    {
+      "channel": "四川卫视",
+      "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8",
+      "error": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8: Error number -138 occurred"
+    },
+    {
+      "channel": "四川卫视",
+      "url": "http://183.207.248.71/gitv/live1/SCWS/SCWS",
+      "error": "http://183.207.248.71/gitv/live1/SCWS/SCWS: Error number -138 occurred"
+    },
+    {
+      "channel": "CCTV-11",
+      "url": "https://xykt-fix.github.io/play/a02b/index.m3u8",
+      "error": "probe timeout"
+    }
+  ],
+  "valid_streams": [
+    {
+      "channel": "CCTV-1",
+      "url": "http://69.30.245.50/live/cctv1.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
+    },
+    {
+      "channel": "CCTV-1",
+      "url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 72
+    },
+    {
+      "channel": "CCTV-1",
+      "url": "http://198.204.240.250:82/live/cctv1.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
+    },
+    {
+      "channel": "CCTV-2",
+      "url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 74
+    },
+    {
+      "channel": "CCTV-3",
+      "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 75
+    },
+    {
+      "channel": "CCTV-4",
+      "url": "http://74.91.26.218:82/live/cctv4hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "CCTV-6",
+      "url": "http://198.204.240.250:82/live/cctv6.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
+    },
+    {
+      "channel": "CCTV-6",
+      "url": "http://69.30.245.50/live/cctv6.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
+    },
+    {
+      "channel": "CCTV-7",
+      "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 73
+    },
+    {
+      "channel": "CCTV-8",
+      "url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 73
+    },
+    {
+      "channel": "CCTV-10",
+      "url": "http://74.91.26.218:82/live/cctv10hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 73
+    },
+    {
+      "channel": "CCTV-11",
+      "url": "http://74.91.26.218:82/live/cctv11hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 73
+    },
+    {
+      "channel": "CCTV-12",
+      "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 72
+    },
+    {
+      "channel": "CCTV-13",
+      "url": "http://74.91.26.218:82/live/cctv13hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 73
+    },
+    {
+      "channel": "CCTV-14",
+      "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 72
+    },
+    {
+      "channel": "CCTV-15",
+      "url": "https://xykt-fix.github.io/play/a02e/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
+    },
+    {
+      "channel": "CCTV-15",
+      "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 73
+    },
+    {
+      "channel": "CCTV-16",
+      "url": "http://74.91.26.218:82/live/cctv16hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 90
+    },
+    {
+      "channel": "CCTV-17",
+      "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
+    }
+  ]
+}

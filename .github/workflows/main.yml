@@ -1,18 +1,9 @@
-name: 'Update schedule'
-
-# ⚠️注意：请不要在 fork 的仓库中添加 `on: schedule` 定时任务（cron）。
-# Forks 可能被大量复制并触发定时执行，当前 GitHub Actions 资源使用已接近上限，
-# 大量 fork 的定时任务可能导致工作流被禁用。若需要定时执行，请使用其它部署方式。
-#
-# ⚠️NOTICE: Do NOT add `on: schedule` cron triggers in forked repositories.
-# Forks may multiply scheduled runs and GitHub Actions resource usage is near limits.
-# Many scheduled workflows from forks can cause workflows to be disabled.
-# If scheduled execution is required, use other deployment methods.
+name: 'Update verified playlist'
 
 on:
-  # 如需定时执行，取消以下注释
-  # schedule:
-  #   - cron: '0 10 */2 * *'
+  schedule:
+    # 北京时间每天 06:20 和 18:20 更新，避开常见整点高峰。
+    - cron: '20 22,10 * * *'
   workflow_dispatch:
 
 permissions:
@@ -51,8 +42,28 @@ jobs:
         run: pip3 install --user pipenv
       - name: Install dependecies
         run: pipenv --python 3.13 && pipenv install --deploy
+      - name: Back up last verified playlist
+        run: |
+          mkdir -p "$RUNNER_TEMP/iptv-backup"
+          cp output/user_result.m3u "$RUNNER_TEMP/iptv-backup/user_result.m3u" 2>/dev/null || true
+          cp output/user_result.txt "$RUNNER_TEMP/iptv-backup/user_result.txt" 2>/dev/null || true
       - name: Update
         run: pipenv run dev
+      - name: Verify generated playlist with FFprobe
+        run: |
+          pipenv run python scripts/validate_playlist.py \
+            output/user_result.m3u \
+            --output output/user_result.m3u \
+            --txt-output output/user_result.txt \
+            --report output/log/validation.json \
+            --timeout 12 \
+            --workers 12 \
+            --min-channels 10
+      - name: Restore last verified playlist on failure
+        if: failure()
+        run: |
+          cp "$RUNNER_TEMP/iptv-backup/user_result.m3u" output/user_result.m3u 2>/dev/null || true
+          cp "$RUNNER_TEMP/iptv-backup/user_result.txt" output/user_result.txt 2>/dev/null || true
       - name: Upload output artifacts
         if: always()
         uses: actions/upload-artifact@v4
@@ -65,10 +76,17 @@ jobs:
           if-no-files-found: warn
           retention-days: 7
       - name: Commit and push if changed
+        if: success()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add output/** version.json || true
+          git add \
+            output/user_result.m3u \
+            output/user_result.txt \
+            output/epg/epg.gz \
+            output/epg/epg.xml \
+            output/log/validation.json \
+            version.json || true
           if ! git diff --staged --quiet; then
             git commit -m "Github Action Auto Updated"
             git push

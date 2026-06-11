@@ -379,6 +379,15 @@ docker run -d -p 80:8080 guovern/iptv-api
 - `config/user_demo.txt` - 自定义频道模板
 - `config/rtp/` - 44 个省份 RTP 组播源配置
 - `.github/workflows/rtp-to-m3u.yml` - RTP 转 M3U 工作流
+- `scripts/validate_playlist.py` - 发布前使用 FFprobe 读取媒体包，剔除不可播放线路
+
+**公网验证列表：**
+
+```text
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/user_result.m3u
+```
+
+该列表只发布通过媒体流验证的 HTTP/HTTPS 地址。`config/rtp/` 中的运营商组播地址仅供对应地区和运营商内网使用，不会混入公网验证列表。工作流每天自动更新两次；如果有效频道少于质量门槛，将保留上一次已验证结果，不发布空列表或明显异常结果。
 
 **同步状态：** 已同步至上游 v2.0.7
 

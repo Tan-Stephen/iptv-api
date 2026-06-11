@@ -3,9 +3,11 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-
-
-
+# iptv-org 持续维护的中国频道聚合列表。这里不放入白名单，
+# 所有候选地址必须经过项目测速和发布前 ffprobe 复验。
+https://iptv-org.github.io/iptv/countries/cn.m3u
+# 原始中国频道流清单包含更多中文频道名，作为同项目补充源。
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。

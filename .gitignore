@@ -2,6 +2,10 @@ dist
 build
 .idea
 __pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.tools/
 backup_merge_*
 docs/MERGE_GUIDE.md
 docs/MERGE_GUIDE.md
