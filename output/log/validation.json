@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-11 12:32:56",
-  "input_entries": 28,
-  "unique_urls": 28,
-  "valid_entries": 19,
+  "generated_at": "2026-06-11 11:53:15",
+  "input_entries": 24,
+  "unique_urls": 24,
+  "valid_entries": 18,
   "valid_channels": 15,
   "invalid_entries": [
     {
@@ -12,43 +12,28 @@
     },
     {
       "channel": "CCTV-13",
-      "url": "https://cdn3.163189.xyz/163189/cctv13",
-      "error": "https://cdn3.163189.xyz/163189/cctv13: Server returned 5XX Server Error reply"
-    },
-    {
-      "channel": "CCTV-13",
       "url": "http://go.bkpcp.top/mg/cctv13",
       "error": "http://go.bkpcp.top/mg/cctv13: Invalid data found when processing input"
     },
     {
-      "channel": "CCTV-9",
-      "url": "https://xykt-fix.github.io/Y77.m3u8",
-      "error": "no video packets received"
-    },
-    {
       "channel": "北京卫视",
       "url": "http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8",
-      "error": "http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8: Error number -138 occurred"
+      "error": "http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8: Connection timed out"
     },
     {
       "channel": "四川卫视",
       "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8",
-      "error": "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8: Error number -138 occurred"
+      "error": "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8: Connection timed out"
     },
     {
       "channel": "四川卫视",
       "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8",
-      "error": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8: Error number -138 occurred"
+      "error": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8: Connection timed out"
     },
     {
       "channel": "四川卫视",
       "url": "http://183.207.248.71/gitv/live1/SCWS/SCWS",
-      "error": "http://183.207.248.71/gitv/live1/SCWS/SCWS: Error number -138 occurred"
-    },
-    {
-      "channel": "CCTV-11",
-      "url": "https://xykt-fix.github.io/play/a02b/index.m3u8",
-      "error": "probe timeout"
+      "error": "http://183.207.248.71/gitv/live1/SCWS/SCWS: Connection timed out"
     }
   ],
   "valid_streams": [
@@ -66,7 +51,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "CCTV-1",
@@ -82,7 +67,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "CCTV-3",
@@ -90,7 +75,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 72
     },
     {
       "channel": "CCTV-4",
@@ -98,7 +83,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 89
+      "video_packets": 73
     },
     {
       "channel": "CCTV-6",
@@ -106,7 +91,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "CCTV-6",
@@ -130,7 +115,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CCTV-10",
@@ -154,7 +139,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 75
     },
     {
       "channel": "CCTV-13",
@@ -162,7 +147,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-14",
@@ -170,15 +155,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
-    },
-    {
-      "channel": "CCTV-15",
-      "url": "https://xykt-fix.github.io/play/a02e/index.m3u8",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-15",
