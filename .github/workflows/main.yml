@@ -58,7 +58,7 @@ jobs:
             --report output/log/validation.json \
             --timeout 12 \
             --workers 12 \
-            --min-channels 10
+            --min-channels 20
       - name: Restore last verified playlist on failure
         if: failure()
         run: |

@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260611123236 +0800">
+<tv date="20260611195806 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5975,5 +5975,293 @@
 	</programme>
 	<programme channel="三沙卫视" start="20260611232000 +0800" stop="20260611235959 +0800">
 		<title lang="zh">自贸先行者</title>
+	</programme>
+	<channel id="港台电视 31">
+		<display-name lang="zh">港台电视 31</display-name>
+	</channel>
+	<programme channel="港台电视 31" start="20260611000000 +0800" stop="20260611003000 +0800">
+		<title lang="zh">凝聚香港</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611003000 +0800" stop="20260611010000 +0800">
+		<title lang="zh">湾区全媒睇</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611010000 +0800" stop="20260611020000 +0800">
+		<title lang="zh">欢乐家长群(第三十三集)</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611020000 +0800" stop="20260611023000 +0800">
+		<title lang="zh">医生与你</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611023000 +0800" stop="20260611030000 +0800">
+		<title lang="zh">港乐•讲乐(第151集)</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611030000 +0800" stop="20260611033000 +0800">
+		<title lang="zh">睇得见听得到</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611033000 +0800" stop="20260611043000 +0800">
+		<title lang="zh">三叉戟2(第十六集)</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611043000 +0800" stop="20260611053000 +0800">
+		<title lang="zh">31看世界细味风情</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611053000 +0800" stop="20260611060000 +0800">
+		<title lang="zh">医生与你</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611060000 +0800" stop="20260611063000 +0800">
+		<title lang="zh">凝聚香港</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611063000 +0800" stop="20260611064500 +0800">
+		<title lang="zh">BobieLand(第二百三十五集)</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611064500 +0800" stop="20260611070000 +0800">
+		<title lang="zh">快乐魔法森林</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611070000 +0800" stop="20260611070800 +0800">
+		<title lang="zh">恐龙萌游记</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611070800 +0800" stop="20260611071500 +0800">
+		<title lang="zh">恐龙萌游记</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611071500 +0800" stop="20260611073000 +0800">
+		<title lang="zh">家有灶君</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611073000 +0800" stop="20260611080000 +0800">
+		<title lang="zh">湾区全媒睇</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611080000 +0800" stop="20260611080500 +0800">
+		<title lang="zh">盛事传城</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611080500 +0800" stop="20260611100000 +0800">
+		<title lang="zh">千禧年代</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611100000 +0800" stop="20260611105500 +0800">
+		<title lang="zh">父辈的荣耀(第四集)</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611105500 +0800" stop="20260611110000 +0800">
+		<title lang="zh">政正关你事</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611110000 +0800" stop="20260611110500 +0800">
+		<title lang="zh">盛事传城</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611110500 +0800" stop="20260611111000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611111000 +0800" stop="20260611120000 +0800">
+		<title lang="zh">香江暖流</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611120000 +0800" stop="20260611130000 +0800">
+		<title lang="zh">31看世界细味风情</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611130000 +0800" stop="20260611130500 +0800">
+		<title lang="zh">政正关你事</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611130500 +0800" stop="20260611131000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611131000 +0800" stop="20260611140000 +0800">
+		<title lang="zh">精灵一点</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611140000 +0800" stop="20260611145000 +0800">
+		<title lang="zh">春色寄情人(第二十一集)</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611145000 +0800" stop="20260611153500 +0800">
+		<title lang="zh">唐朝诡事录(第一集)</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611153500 +0800" stop="20260611154000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611154000 +0800" stop="20260611160500 +0800">
+		<title lang="zh">湾区全媒睇</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611160500 +0800" stop="20260611163000 +0800">
+		<title lang="zh">凝聚香港</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611163000 +0800" stop="20260611164500 +0800">
+		<title lang="zh">BobieLand(第二百三十六集)</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611164500 +0800" stop="20260611170000 +0800">
+		<title lang="zh">快乐魔法森林</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611170000 +0800" stop="20260611171500 +0800">
+		<title lang="zh">如福侍卫队</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611171500 +0800" stop="20260611173000 +0800">
+		<title lang="zh">家有灶君</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611173000 +0800" stop="20260611180000 +0800">
+		<title lang="zh">医生与你</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611180000 +0800" stop="20260611183000 +0800">
+		<title lang="zh">湾区全媒睇</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611183000 +0800" stop="20260611185500 +0800">
+		<title lang="zh">凝聚香港</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611185500 +0800" stop="20260611190000 +0800">
+		<title lang="zh">香港电台天气简报</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611190000 +0800" stop="20260611193000 +0800">
+		<title lang="zh">新闻天地</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611193000 +0800" stop="20260611202000 +0800">
+		<title lang="zh">欢乐家长群(第三十四集)</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611202000 +0800" stop="20260611202500 +0800">
+		<title lang="zh">香港电台天气简报</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611202500 +0800" stop="20260611203000 +0800">
+		<title lang="zh">政正关你事</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611203000 +0800" stop="20260611212500 +0800">
+		<title lang="zh">三叉戟2(第十七集)</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611212500 +0800" stop="20260611213000 +0800">
+		<title lang="zh">政正关你事</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611213000 +0800" stop="20260611220000 +0800">
+		<title lang="zh">铿锵集</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611220000 +0800" stop="20260611223000 +0800">
+		<title lang="zh">大自然逐样解4</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611223000 +0800" stop="20260611225500 +0800">
+		<title lang="zh">31看世界亲爱的请别忘记我(第4集)</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611225500 +0800" stop="20260611230000 +0800">
+		<title lang="zh">盛事传城</title>
+	</programme>
+	<programme channel="港台电视 31" start="20260611230000 +0800" stop="20260611000000 +0800">
+		<title lang="zh">父辈的荣耀(第四集)</title>
+	</programme>
+	<channel id="港台电视 32">
+		<display-name lang="zh">港台电视 32</display-name>
+	</channel>
+	<programme channel="港台电视 32" start="20260611000000 +0800" stop="20260611003000 +0800">
+		<title lang="zh">森动香港(英文版)</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611003000 +0800" stop="20260611004000 +0800">
+		<title lang="zh">科学∙创未来3(第二集)</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611004000 +0800" stop="20260611010000 +0800">
+		<title lang="zh">童真无国界(第二集)</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611010000 +0800" stop="20260611013000 +0800">
+		<title lang="zh">凝聚香港</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611013000 +0800" stop="20260611050000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611050000 +0800" stop="20260611053000 +0800">
+		<title lang="zh">凝聚香港</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611053000 +0800" stop="20260611073000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611073000 +0800" stop="20260611073500 +0800">
+		<title lang="zh">盛事传城</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611073500 +0800" stop="20260611074000 +0800">
+		<title lang="zh">政正关你事</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611074000 +0800" stop="20260611080500 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611080500 +0800" stop="20260611100000 +0800">
+		<title lang="zh">千禧年代</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611100000 +0800" stop="20260611122000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611122000 +0800" stop="20260611122500 +0800">
+		<title lang="zh">盛事传城</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611122500 +0800" stop="20260611123000 +0800">
+		<title lang="zh">政正关你事</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611123000 +0800" stop="20260611130000 +0800">
+		<title lang="zh">凝聚香港</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611130000 +0800" stop="20260611130700 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611130700 +0800" stop="20260611133000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611133000 +0800" stop="20260611133700 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611133700 +0800" stop="20260611140000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611140000 +0800" stop="20260611140700 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611140700 +0800" stop="20260611143000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611143000 +0800" stop="20260611143700 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611143700 +0800" stop="20260611150000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611150000 +0800" stop="20260611150700 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611150700 +0800" stop="20260611153000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611153000 +0800" stop="20260611153700 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611153700 +0800" stop="20260611160000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611160000 +0800" stop="20260611160700 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611160700 +0800" stop="20260611163000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611163000 +0800" stop="20260611163700 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611163700 +0800" stop="20260611170000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611170000 +0800" stop="20260611170700 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611170700 +0800" stop="20260611173000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611173000 +0800" stop="20260611173700 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611173700 +0800" stop="20260611190000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611190000 +0800" stop="20260611193000 +0800">
+		<title lang="zh">新闻天地</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611193000 +0800" stop="20260611193500 +0800">
+		<title lang="zh">香港电台天气简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611193500 +0800" stop="20260611203000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611203000 +0800" stop="20260611210000 +0800">
+		<title lang="zh">梦想中华人物志</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611210000 +0800" stop="20260611210500 +0800">
+		<title lang="zh">盛事传城</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611210500 +0800" stop="20260611213000 +0800">
+		<title lang="zh">凝聚香港</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611213000 +0800" stop="20260611223000 +0800">
+		<title lang="zh">Chill绿世代</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260611223000 +0800" stop="20260611000000 +0800">
+		<title lang="zh">生活健康资讯体育港式速递</title>
 	</programme>
 </tv>

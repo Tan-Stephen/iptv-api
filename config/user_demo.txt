@@ -52,3 +52,15 @@ CCTV-17
 西藏卫视
 新疆卫视
 云南卫视
+
+🏙️地方频道,#genre#
+通化新闻综合
+
+🇭🇰港澳频道,#genre#
+港台电视 31
+港台电视 32
+
+🌍国际频道,#genre#
+DW English
+TV BRICS Chinese
+Arirang TV

@@ -1,0 +1,11 @@
+# 公网候选源列表。
+# 这些地址不是白名单，最终仍必须通过 scripts/validate_playlist.py 的 FFprobe 读包验证。
+# 不要在这里放 rtp:// 运营商内网组播地址。
+
+河北卫视,https://event.pull.hebtv.com:443/live/live101.m3u8
+通化新闻综合,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+港台电视 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+港台电视 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+DW English,https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+TV BRICS Chinese,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
