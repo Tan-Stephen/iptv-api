@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-11 20:29:54",
-  "input_entries": 24,
-  "unique_urls": 24,
-  "valid_entries": 24,
-  "valid_channels": 22,
+  "generated_at": "2026-06-14 08:09:27",
+  "input_entries": 186,
+  "unique_urls": 186,
+  "valid_entries": 186,
+  "valid_channels": 180,
   "invalid_entries": [],
   "valid_streams": [
     {
@@ -12,6 +12,14 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
+      "video_packets": 73
+    },
+    {
+      "channel": "CCTV-1",
+      "url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
       "video_packets": 73
     },
     {
@@ -36,7 +44,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "CCTV-4",
@@ -47,12 +55,20 @@
       "video_packets": 73
     },
     {
-      "channel": "CCTV-6",
-      "url": "http://198.204.240.250:82/live/cctv6.m3u8",
+      "channel": "CCTV-5",
+      "url": "http://74.91.26.218:82/live/cctv5hd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "CCTV-5",
+      "url": "http://69.30.245.50/live/cctv5.m3u8",
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-6",
@@ -60,7 +76,15 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
+    },
+    {
+      "channel": "CCTV-6",
+      "url": "http://198.204.240.250:82/live/cctv6.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 74
     },
     {
       "channel": "CCTV-7",
@@ -68,7 +92,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-8",
@@ -76,14 +100,6 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
-    },
-    {
-      "channel": "CCTV-9",
-      "url": "https://xykt-fix.github.io/Y77.m3u8",
-      "codec": "h264",
-      "width": 720,
-      "height": 576,
       "video_packets": 75
     },
     {
@@ -92,7 +108,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "CCTV-11",
@@ -100,7 +116,15 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 73
+    },
+    {
+      "channel": "CCTV-11",
+      "url": "https://xykt-fix.github.io/play/a02b/index.m3u8",
+      "codec": "h264",
+      "width": 720,
+      "height": 576,
+      "video_packets": 73
     },
     {
       "channel": "CCTV-12",
@@ -108,7 +132,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 88
     },
     {
       "channel": "CCTV-13",
@@ -128,11 +152,19 @@
     },
     {
       "channel": "CCTV-15",
+      "url": "https://xykt-fix.github.io/play/a02e/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
+    },
+    {
+      "channel": "CCTV-15",
       "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 88
     },
     {
       "channel": "CCTV-16",
@@ -140,11 +172,59 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 89
     },
     {
       "channel": "CCTV-17",
       "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
+    },
+    {
+      "channel": "CGTN CN",
+      "url": "https://english-livebkali.cgtn.com/live/encgtn_0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
+    },
+    {
+      "channel": "广东卫视",
+      "url": "http://74.91.26.218:82/live/gdwshd.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 74
+    },
+    {
+      "channel": "浙江卫视",
+      "url": "http://74.91.26.218:82/live/zjwshd.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
+    },
+    {
+      "channel": "湖南卫视",
+      "url": "http://74.91.26.218:82/live/hnwshd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 73
+    },
+    {
+      "channel": "东方卫视",
+      "url": "http://74.91.26.218:82/live/dfwshd.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
+    },
+    {
+      "channel": "东南卫视",
+      "url": "http://198.204.240.250:82/live/dnws.m3u8",
       "codec": "h264",
       "width": 1920,
       "height": 1080,
@@ -156,7 +236,1191 @@
       "codec": "h264",
       "width": 3840,
       "height": 2160,
+      "video_packets": 75
+    },
+    {
+      "channel": "江苏卫视",
+      "url": "http://74.91.26.218:82/live/jswshd.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "深圳卫视",
+      "url": "http://74.91.26.218:82/live/szwshd.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
+    },
+    {
+      "channel": "CBS News 24/7",
+      "url": "https://pddl.sharewithyou.dpdns.org/?play=https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw_csid=vcbs_xumo_ctv_allos_live_cbsnews;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "CNN",
+      "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "LiveNOW from FOX",
+      "url": "https://s11host2.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config13/25a2f26d-fa83-469b-a0c6-0d4508fec2c0/2.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "NBC News NOW",
+      "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Newsmax",
+      "url": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "Reuters",
+      "url": "https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "Sky News International",
+      "url": "https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master_5.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "BBC News UK",
+      "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 149
+    },
+    {
+      "channel": "Euronews FR",
+      "url": "https://aka-live1050.delivery.roku.com/f5af26d1-822b-43f3-93f4-2301a947e1f3/t2-origin/out/v1/live_1080.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "DW English DE",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 151
+    },
+    {
+      "channel": "TRT World TR",
+      "url": "https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8",
+      "codec": "h264",
+      "width": 2560,
+      "height": 1440,
+      "video_packets": 75
+    },
+    {
+      "channel": "RT RU",
+      "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
+    },
+    {
+      "channel": "Al Jazeera English QA",
+      "url": "https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
+    },
+    {
+      "channel": "BBC America",
+      "url": "http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 177
+    },
+    {
+      "channel": "CityNews Toronto CA",
+      "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-3MBPS.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 179
+    },
+    {
+      "channel": "CNN Originals",
+      "url": "https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/3836c9f5-9b7c-4254-90fd-4c8bcfca7f8f/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "BBC Antiques Roadshow UK",
+      "url": "https://dbbg0ax8bgo7d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rr52e88156vv-prod/4e195c60-6424-49aa-9666-ace19f590582/2.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 90
+    },
+    {
+      "channel": "FOX 03",
+      "url": "http://stream.cammonitorplus.net/1752/index.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 179
+    },
+    {
+      "channel": "BBC One UK 01",
+      "url": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 149
+    },
+    {
+      "channel": "ACC Network",
+      "url": "http://23.237.104.106:8080/USA_ACCN/index.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 177
+    },
+    {
+      "channel": "beIN SPORTS",
+      "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 180
+    },
+    {
+      "channel": "Big Ten Network",
+      "url": "http://23.237.104.106:8080/USA_BTN/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 177
+    },
+    {
+      "channel": "CBS Sports Network",
+      "url": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 88
+    },
+    {
+      "channel": "ESPNU",
+      "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 178
+    },
+    {
+      "channel": "Golf Channel",
+      "url": "http://23.237.104.106:8080/USA_GOLF/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 177
+    },
+    {
+      "channel": "MSG",
+      "url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 179
+    },
+    {
+      "channel": "NBA TV",
+      "url": "http://23.237.104.106:8080/USA_NBA/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 177
+    },
+    {
+      "channel": "NFL Network",
+      "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 178
+    },
+    {
+      "channel": "SEC Network",
+      "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 177
+    },
+    {
+      "channel": "Spectrum SportsNet Los Angeles",
+      "url": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 177
+    },
+    {
+      "channel": "SportsNet New York",
+      "url": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 180
+    },
+    {
+      "channel": "TNT Sports 1 UK",
+      "url": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343.ts",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 149
+    },
+    {
+      "channel": "ESPN NL",
+      "url": "http://86.87.15.10:8003/play/a01w/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 78
+    },
+    {
+      "channel": "ESPN 2 NL",
+      "url": "http://86.87.15.10:8003/play/a022/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 125
+    },
+    {
+      "channel": "ESPN 3 NL",
+      "url": "http://86.87.15.10:8001/play/a01k/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 86
+    },
+    {
+      "channel": "ESPN 4 NL",
+      "url": "http://86.87.15.10:8003/play/a023/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 104
+    },
+    {
+      "channel": "Ziggo Sport NL",
+      "url": "http://86.87.15.10:8008/play/a01h/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 81
+    },
+    {
+      "channel": "Ziggo Sport 2 NL",
+      "url": "http://86.87.15.10:8004/play/a02b/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 76
+    },
+    {
+      "channel": "Ziggo Sport 3 NL",
+      "url": "http://86.87.15.10:8003/play/a02k/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 126
+    },
+    {
+      "channel": "Ziggo Sport 5 NL",
+      "url": "http://86.87.15.10:8009/play/a01d/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 78
+    },
+    {
+      "channel": "Ziggo Sport 6 NL",
+      "url": "http://86.87.15.10:8009/play/a00z/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 80
+    },
+    {
+      "channel": "Billiard TV",
+      "url": "https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8076993c-bbf4-4dbc-a77a-9b70047f90e0/4.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "ESPN8: The Ocho",
+      "url": "https://d3b6q2ou5kp8ke.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/aab88f58-adb6-4466-aceb-3b71a6f23411/4.m3u8",
+      "codec": "hevc",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "FIFA+",
+      "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/88fc28a8-62ec-492a-9f34-8b52fd57f5d1/2.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "MSG SportsZone",
+      "url": "https://d2a31kzot4f8t3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8c6otsdsok8vf/cf4c5a15-ce59-4e83-9f4b-71c2f42aa8c9/2.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "NBC Sports NOW",
+      "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 87
+    },
+    {
+      "channel": "PFL",
+      "url": "https://aka-live1050.delivery.roku.com/120da388-708f-4b8f-b4f4-8d564c348eb1/t2-origin/out/v1/live_1080.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Red Bull TV",
+      "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Red Bull TV Motorsport",
+      "url": "https://d39yjeivnywvts.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/edaaeec2-d7b8-4a80-aa03-601309764d5a/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Strongman Champions League",
+      "url": "https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ad15bc3b-8829-47e5-8a6d-258b501ca01c/5.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "UFC",
+      "url": "https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Women's Sports Network",
+      "url": "https://d39accvx65hq9o.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ngwzz9m41tnrd/ea1fdc6f-3d1d-481b-9a7d-b9944f86e3f1/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "World Fishing Network",
+      "url": "https://d3b3ldcvgsu291.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/e58ff6a8-d844-479f-8aef-e4baf46bbff6/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "WWE Superstar Central",
+      "url": "https://dpv6ceilvhyrw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ufe851j0vqbg/cb057fb1-5af8-4aca-9641-86ed99826bac/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "TSN The Ocho CA",
+      "url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/77d9db0d-3fde-4e0c-a2fd-150fc780c9b7/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "AMC Thrillers",
+      "url": "https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "BET x Tyler Perry Comedy",
+      "url": "https://d3vmpkkd3o2grv.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0l5146z4a61ea/d781f4e4-9c34-4042-977e-42e40289ad73/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "BET x Tyler Perry Drama",
+      "url": "https://doumbtmvnsp0z.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4l5s0dxe6davu/ccbab86b-a9a5-40cd-ad18-32649a245b41/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "CW Forever",
+      "url": "https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "CW Gold",
+      "url": "https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "FilmRise Action",
+      "url": "https://aka-live1050.delivery.roku.com/6872f94b-9d18-49bf-83cb-832dd25a5cb4/t2-origin/out/v1/live_720.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "FilmRise British TV",
+      "url": "https://aka-live1050.delivery.roku.com/d83b2941-9473-4d27-adb0-aec056e72ef8/t2-origin/out/v1/live_720.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "FilmRise Classic TV",
+      "url": "https://aka-live1050.delivery.roku.com/9f8d19b2-1dfc-432a-bc3e-e1dacf2f0e4e/t2-origin/out/v1/live_720.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "FilmRise Free Movies",
+      "url": "https://aka-live1050.delivery.roku.com/1c6ad6fa-bf05-4887-9469-74eb48c81627/t2-origin/out/v1/live_720.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "FilmRise Horror",
+      "url": "https://aka-live1050.delivery.roku.com/148be9ff-1ae2-439c-a3f0-fd55dfa506ab/t2-origin/out/v1/live_720.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "FilmRise Sci-Fi",
+      "url": "https://aka-live1050.delivery.roku.com/3f4654d4-df13-4453-b224-3e5f73dcdc7b/t2-origin/out/v1/live_720.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "FilmRise Western",
+      "url": "https://aka-live1050.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live_720.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "MGM Present",
+      "url": "https://ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1071-MGMPRESENTS-TCLTV/7035defd-1fc3-49cd-9dd6-8f646549cc42/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "MGM Present Horror",
+      "url": "https://99f62fea411048679ce5e233e88f2b95.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1217-MGMPRESENTSHORROR-TCLTV/55852247-e42e-4f5f-81b9-54a3f0a893bf/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 85
+    },
+    {
+      "channel": "NBC Comedy Vault",
+      "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a90cc32f-3289-4647-8b23-a28125cfa538/4.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "OuterSphere by Lionsgate",
+      "url": "https://d3o593mz1glx8d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/00b50ee1-5798-469a-b438-53e6c394eccc/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "Stories by AMC",
+      "url": "https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/6f61dc83-1db6-47ca-91fa-c7a26dc238fb/5.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Universal Movies",
+      "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Universal Action",
+      "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/14c3da40-a4a0-4788-bd7d-210fbed221dd/4.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Universal Crime",
+      "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/8c099bf8-0c15-481f-a109-1a3162361da8/4.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "Universal Western",
+      "url": "https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "BritBox Mysteries UK",
+      "url": "https://1d7f286dfb844497ac68dd9d6eeb6ea6.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-796-BRITBOXMYSTERIES-LG_US/a623a951-0765-40f6-83dd-307e7c64a4f5/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "Sony One Action HITS UK",
+      "url": "https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/af2459de-b2ca-47eb-8435-5e6998ec22dc/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Sony One Comedy HITS UK",
+      "url": "https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/cc1d2891-3e9b-4e4c-a518-383d37092998/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Sony One Comedy TV UK",
+      "url": "https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/09055582-32bf-4ef3-a52d-c2396416feb2/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Sony One Thriller TV UK",
+      "url": "https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/02d6917b-e5da-46e2-82d5-c3b3103bfd0e/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Cartoon Network",
+      "url": "http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 177
+    },
+    {
+      "channel": "Sensical Gaming",
+      "url": "https://aka-live1050.delivery.roku.com/314957f6-8e52-4bf6-aba2-27193c314772/t2-origin/out/v1/live_1080.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "The LEGO Channel",
+      "url": "https://dh18i7whff86v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/fc2273de-2ae1-4ed2-905d-739cf431eb30/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Tom and Jerry",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+      "codec": "h264",
+      "width": 854,
+      "height": 480,
+      "video_packets": 71
+    },
+    {
+      "channel": "Love Nature 4K",
+      "url": "https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8",
+      "codec": "hevc",
+      "width": 3840,
+      "height": 2160,
+      "video_packets": 88
+    },
+    {
+      "channel": "Discovery",
+      "url": "http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 175
+    },
+    {
+      "channel": "National Geographic",
+      "url": "http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 179
+    },
+    {
+      "channel": "FilmRise Forensic Files",
+      "url": "https://aka-live1050.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live_720.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "FilmRise Mysteries",
+      "url": "https://aka-live1050.delivery.roku.com/6958d32d-d93b-4cbd-81ca-aab20001570b/t2-origin/out/v1/live_720.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "FilmRise True Crime",
+      "url": "https://aka-live1050.delivery.roku.com/22b66942-f85a-4a33-9440-61fea2cac667/t2-origin/out/v1/live_720.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 89
+    },
+    {
+      "channel": "MagellanTV Wildest",
+      "url": "https://s8host3.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config10/fdc864bc-5776-4756-90d6-b0902043c249/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "Nature Moments",
+      "url": "https://aka-live1050.delivery.roku.com/d219883b-5654-402f-9391-33e9144cad39/t2-origin/out/v1/live_1080.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "REELZ Famous & Infamous",
+      "url": "https://pb-pskpwdav4v1e3.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-pskpwdav4v1e3/285d2802-77e5-459a-950e-c055bd2ace07/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "The Judge Judy Channel",
+      "url": "https://pddl.sharewithyou.dpdns.org/?play=https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FbRE69gQJQm2_cW4qnf6okg%2Fmaster.m3u8&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080&ip_addr=185.217.168.164",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "CTV Gridlock CA",
+      "url": "https://dhjd4u7ds8bgi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ses39ewew36zq/edd17cd1-3ddc-42bd-9941-e780391c4ff5/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "AMC",
+      "url": "http://23.239.31.26:8989/amc/index.m3u8",
+      "codec": "mpeg2video",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 180
+    },
+    {
+      "channel": "Animal Planet",
+      "url": "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 177
+    },
+    {
+      "channel": "AXS TV",
+      "url": "http://23.239.31.26:8989/axstv/index.m3u8",
+      "codec": "mpeg2video",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 180
+    },
+    {
+      "channel": "Boomerang",
+      "url": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 177
+    },
+    {
+      "channel": "BounceTV",
+      "url": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 176
+    },
+    {
+      "channel": "CMT",
+      "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 176
+    },
+    {
+      "channel": "Comedy Central",
+      "url": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 177
+    },
+    {
+      "channel": "Comet",
+      "url": "https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Cooking Channel",
+      "url": "http://23.237.104.106:8080/USA_COOKING/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 177
+    },
+    {
+      "channel": "E!",
+      "url": "http://23.237.104.106:8080/USA_E/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 178
+    },
+    {
+      "channel": "Food Network",
+      "url": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 178
+    },
+    {
+      "channel": "ION Television",
+      "url": "https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a5e7ebd8-80a4-49ed-8337-3f63f84673cc/1.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "MTV Live",
+      "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 179
+    },
+    {
+      "channel": "Outdoor Channel",
+      "url": "http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 177
+    },
+    {
+      "channel": "Paramount Network",
+      "url": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 178
+    },
+    {
+      "channel": "Syfy",
+      "url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 179
+    },
+    {
+      "channel": "USA Network",
+      "url": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 81
+    },
+    {
+      "channel": "VH1",
+      "url": "http://23.237.104.106:8080/USA_VH1/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 179
+    },
+    {
+      "channel": "WE tv",
+      "url": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 179
+    },
+    {
+      "channel": "RMC Découverte FR",
+      "url": "https://d1dagx0hs2fkxs.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2p2o2x977e2oh/1684a6c6-7cce-480a-88c0-aff91aab84f5/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
+    },
+    {
+      "channel": "RMC Story FR",
+      "url": "https://d171yrj5ba7twq.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-c5al169c4n0ck/63cd71b0-38bc-4416-8e96-4384ea5bac34/0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
+    },
+    {
+      "channel": "PBS Food",
+      "url": "https://aka-live1050.delivery.roku.com/96414c68-02f2-4e5c-8e5d-355025ccf724/t2-origin/out/v1/live_1080.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "CTV @ Home CA",
+      "url": "https://d1ieuq3tbxyiyt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zv27yfxabsqcr/d20c04d4-1577-446c-b551-5bb288121a09/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "CTV Gets Real CA",
+      "url": "https://dyibab6iv1p6i.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4j7c245x3pz3r/04f2cd9d-c459-4f57-a79f-473d1b3ca65a/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "CTV Laughs CA",
+      "url": "https://dvsxtm7eutazd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8bf178m7nvq93/b1bc7153-ba35-44a8-8706-a64867f31214/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 88
+    },
+    {
+      "channel": "FashionTV FR",
+      "url": "https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 64
+    },
+    {
+      "channel": "Stingray DJAZZ",
+      "url": "https://d1or3dijypy7w9.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fnc447z72mkdf/220c440a-5b8b-4760-b6fd-57ac5c97bcc8/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 87
+    },
+    {
+      "channel": "Vevo '70s",
+      "url": "https://aka-live1050.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-origin/out/v1/live_1080.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "Vevo '80s",
+      "url": "https://aka-live1050.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b0128c/t2-origin/out/v1/live_1080.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "Vevo '90s",
+      "url": "https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live_1080.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "Vevo 2K",
+      "url": "https://aka-live1050.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live_1080.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Vevo Country",
+      "url": "https://aka-live1050.delivery.roku.com/c852fbec-cd06-4040-904b-9a9481647a94/t2-origin/out/v1/live_1080.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "Vevo Hip-Hop",
+      "url": "https://aka-live1050.delivery.roku.com/04bfc270-3919-495e-a61d-39814ab58131/t2-origin/out/v1/live_1080.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "Vevo Latino",
+      "url": "https://aka-live1050.delivery.roku.com/473ec9f9-6dad-4a92-86e9-215c5fa50602/t2-origin/out/v1/live_1080.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Vevo Pop",
+      "url": "https://aka-live1050.delivery.roku.com/2436b19a-5fb6-4245-99f9-ba3dc33af3c0/t2-origin/out/v1/live_1080.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 90
+    },
+    {
+      "channel": "Vevo R&B",
+      "url": "https://aka-live1050.delivery.roku.com/395d8b66-d246-4bf2-87b6-89a5dc1084ed/t2-origin/out/v1/live_1080.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "Vevo Rock",
+      "url": "https://d2hdqrshyzxswl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/d3e90c9b-f738-4126-9e26-b4cdb23652b6/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 89
+    },
+    {
+      "channel": "XITE 80s Flashback",
+      "url": "https://d1n314cytqn9r3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/546a529d-394a-4513-bb13-af14dbfbefaf/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
+    },
+    {
+      "channel": "XITE 90s Throwback",
+      "url": "https://d284aawtm5vi48.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/4aa6988f-4506-421c-8687-42c4b2105ad0/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
+    },
+    {
+      "channel": "XITE Hits",
+      "url": "https://d726x48n2pd5h.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/c70b5479-c97b-407b-9caf-4dc3877797bb/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
       "video_packets": 74
+    },
+    {
+      "channel": "XITE Just Chill",
+      "url": "https://dvnftgdlbnemm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/00fbab90-74cb-4f1f-9dc7-3c6729bc05b6/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 74
+    },
+    {
+      "channel": "XITE Nuevo Latino",
+      "url": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/075ea560-48b3-46ee-a540-4652a11b6496/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 72
+    },
+    {
+      "channel": "XITE Rock x Metal",
+      "url": "https://d198ro05q94rc4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/cb1e7724-889a-4222-bd51-521d7138d981/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 74
+    },
+    {
+      "channel": "XITE Siempre Latino",
+      "url": "https://d1xc25jm9e0l4b.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/9e3a27bc-6360-4e2f-b758-a4edcfdef194/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 72
+    },
+    {
+      "channel": "XITE Spring Vibes",
+      "url": "https://dt1s4l2cmiyit.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/530416f1-5263-4b76-b173-89ec9966d010/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 71
+    },
+    {
+      "channel": "Deluxe Dance By Kontor DE",
+      "url": "https://d37i8mvsaxucfl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0785d94zsjwwd/5ad2bbc2-9a48-4959-8c7a-e94242429fa0/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
+    },
+    {
+      "channel": "Deluxe Deutschpop DE",
+      "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bba3d9f4-ec03-45b0-81c3-b1aa633ccfdd/0.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 73
+    },
+    {
+      "channel": "Deluxe Lounge DE",
+      "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/1e367167-2283-48ff-9825-c85c2af73093/0.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 73
+    },
+    {
+      "channel": "Deluxe RAP DE",
+      "url": "https://db7hpmv1jrjri.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m380ud5ckv9kb/b0ddd142-6bee-4a68-a804-7c42acd2fbe6/3.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 72
+    },
+    {
+      "channel": "Deluxe Summertime DE",
+      "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0d75b22a-bd87-4d86-a290-dcb394242d5f/0.m3u8",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "video_packets": 73
     },
     {
       "channel": "通化新闻综合",
@@ -188,7 +1452,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "Chifeng News",
@@ -197,6 +1461,38 @@
       "width": 1920,
       "height": 1080,
       "video_packets": 73
+    },
+    {
+      "channel": "BBC News",
+      "url": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 177
+    },
+    {
+      "channel": "Al Jazeera English",
+      "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 72
+    },
+    {
+      "channel": "France 24 English",
+      "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
+    },
+    {
+      "channel": "CNBC",
+      "url": "http://89.187.179.148:826/anto.j/c9yJDcXyPe/1346",
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 178
     }
   ]
 }
