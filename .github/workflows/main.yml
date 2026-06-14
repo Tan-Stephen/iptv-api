@@ -47,6 +47,7 @@ jobs:
           mkdir -p "$RUNNER_TEMP/iptv-backup"
           cp output/user_result.m3u "$RUNNER_TEMP/iptv-backup/user_result.m3u" 2>/dev/null || true
           cp output/user_result.txt "$RUNNER_TEMP/iptv-backup/user_result.txt" 2>/dev/null || true
+          cp output/log/garyshare_validation.json "$RUNNER_TEMP/iptv-backup/garyshare_validation.json" 2>/dev/null || true
       - name: Update
         run: pipenv run dev
       - name: Verify generated playlist with FFprobe
@@ -75,6 +76,8 @@ jobs:
             --workers 12 \
             --min-channels 20
       - name: Merge GaryShare full playlist
+        id: merge_garyshare
+        continue-on-error: true
         run: |
           pipenv run python scripts/merge_garyshare_playlist.py \
             --source-url https://garyshare.sharewithyou.dpdns.org/mylist.m3u \
@@ -86,6 +89,12 @@ jobs:
             --timeout 8 \
             --workers 32 \
             --min-valid 20
+      - name: Restore last GaryShare playlist on merge failure
+        if: steps.merge_garyshare.outcome == 'failure'
+        run: |
+          cp "$RUNNER_TEMP/iptv-backup/user_result.m3u" output/user_result.m3u
+          cp "$RUNNER_TEMP/iptv-backup/user_result.txt" output/user_result.txt
+          cp "$RUNNER_TEMP/iptv-backup/garyshare_validation.json" output/log/garyshare_validation.json 2>/dev/null || true
       - name: Verify final merged playlist with FFprobe
         run: |
           pipenv run python scripts/validate_playlist.py \
