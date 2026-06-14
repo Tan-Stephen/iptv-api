@@ -63,3 +63,11 @@ CCTV-17
 TV BRICS Chinese
 ABC News
 Chifeng News
+BBC News
+Al Jazeera English
+France 24 English
+Bloomberg TV US
+CNBC
+
+🇹🇼台湾频道,#genre#
+TVBS Asia

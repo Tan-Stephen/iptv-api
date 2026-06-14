@@ -50,6 +50,8 @@ jobs:
       - name: Update
         run: pipenv run dev
       - name: Verify generated playlist with FFprobe
+        id: verify_generated
+        continue-on-error: true
         run: |
           pipenv run python scripts/validate_playlist.py \
             output/user_result.m3u \
@@ -59,11 +61,51 @@ jobs:
             --timeout 12 \
             --workers 12 \
             --min-channels 20
-      - name: Restore last verified playlist on failure
-        if: failure()
+      - name: Restore and verify last published playlist
+        if: steps.verify_generated.outcome == 'failure'
         run: |
-          cp "$RUNNER_TEMP/iptv-backup/user_result.m3u" output/user_result.m3u 2>/dev/null || true
-          cp "$RUNNER_TEMP/iptv-backup/user_result.txt" output/user_result.txt 2>/dev/null || true
+          cp "$RUNNER_TEMP/iptv-backup/user_result.m3u" output/user_result.m3u
+          cp "$RUNNER_TEMP/iptv-backup/user_result.txt" output/user_result.txt
+          pipenv run python scripts/validate_playlist.py \
+            output/user_result.m3u \
+            --output output/user_result.m3u \
+            --txt-output output/user_result.txt \
+            --report output/log/validation.json \
+            --timeout 12 \
+            --workers 12 \
+            --min-channels 20
+      - name: Merge GaryShare full playlist
+        run: |
+          pipenv run python scripts/merge_garyshare_playlist.py \
+            --source-url https://garyshare.sharewithyou.dpdns.org/mylist.m3u \
+            --playlist output/user_result.m3u \
+            --txt-output output/user_result.txt \
+            --report output/log/garyshare_validation.json \
+            --fetch-timeout 60 \
+            --fetch-retries 3 \
+            --timeout 8 \
+            --workers 32 \
+            --min-valid 20
+      - name: Verify final merged playlist with FFprobe
+        run: |
+          pipenv run python scripts/validate_playlist.py \
+            output/user_result.m3u \
+            --output output/user_result.m3u \
+            --txt-output output/user_result.txt \
+            --report output/log/validation.json \
+            --timeout 12 \
+            --workers 12 \
+            --min-channels 20
+      - name: Record playlist selection
+        if: always()
+        run: |
+          if [ "${{ steps.verify_generated.outcome }}" = "success" ]; then
+            echo "### Playlist update" >> "$GITHUB_STEP_SUMMARY"
+            echo "Published the newly generated playlist after GaryShare merge and FFprobe validation." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "### Playlist fallback" >> "$GITHUB_STEP_SUMMARY"
+            echo "The generated playlist missed the 20-channel threshold; kept the last published playlist, then merged GaryShare and revalidated." >> "$GITHUB_STEP_SUMMARY"
+          fi
       - name: Upload output artifacts
         if: always()
         uses: actions/upload-artifact@v4
@@ -85,6 +127,7 @@ jobs:
             output/user_result.txt \
             output/epg/epg.gz \
             output/epg/epg.xml \
+            output/log/garyshare_validation.json \
             output/log/validation.json \
             version.json || true
           if ! git diff --staged --quiet; then

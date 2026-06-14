@@ -3,8 +3,23 @@
 # 不要在这里放 rtp:// 运营商内网组播地址。
 
 河北卫视,https://event.pull.hebtv.com:443/live/live101.m3u8
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
+浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
+江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
+东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
+广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
+深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
+东南卫视,http://198.204.240.250:82/live/dnws.m3u8
 通化新闻综合,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 港台电视 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 TV BRICS Chinese,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 Chifeng News,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5,http://69.30.245.50/live/cctv5.m3u8
+BBC News,http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
+Al Jazeera English,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+France 24 English,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+Bloomberg TV US,https://bloomberg.com/media-manifest/streams/us.m3u8
+CNBC,https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8

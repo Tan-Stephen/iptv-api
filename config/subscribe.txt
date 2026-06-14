@@ -8,6 +8,8 @@
 https://iptv-org.github.io/iptv/countries/cn.m3u
 # 原始中国频道流清单包含更多中文频道名，作为同项目补充源。
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+# GaryShare 公开 M3U，作为欧美新闻、体育、影视、纪录、少儿频道补充源。
+https://garyshare.sharewithyou.dpdns.org/mylist.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
