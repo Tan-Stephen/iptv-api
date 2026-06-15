@@ -69,7 +69,6 @@ TNT Sports 1 UK,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343.ts
 ESPN NL,http://86.87.15.10:8003/play/a01w/index.m3u8
 ESPN 2 NL,http://86.87.15.10:8003/play/a022/index.m3u8
 ESPN 3 NL,http://86.87.15.10:8001/play/a01k/index.m3u8
-ESPN 4 NL,http://86.87.15.10:8003/play/a023/index.m3u8
 Ziggo Sport NL,http://86.87.15.10:8008/play/a01h/index.m3u8
 Ziggo Sport 2 NL,http://86.87.15.10:8004/play/a02b/index.m3u8
 Ziggo Sport 3 NL,http://86.87.15.10:8003/play/a02k/index.m3u8
@@ -191,9 +190,6 @@ Deluxe Summertime DE,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-cen
 
 🏙️地方频道,#genre#
 通化新闻综合,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
-
-🇭🇰港澳频道,#genre#
-港台电视 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 🌍国际频道,#genre#
 TV BRICS Chinese,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8

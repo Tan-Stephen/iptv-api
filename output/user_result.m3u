@@ -127,8 +127,6 @@ http://86.87.15.10:8003/play/a01w/index.m3u8
 http://86.87.15.10:8003/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.3.nl" tvg-name="ESPN 3 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/espn-3-nl.png?raw=true" group-title="🏀体育频道",ESPN 3 NL
 http://86.87.15.10:8001/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.4.nl" tvg-name="ESPN 4 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/espn-4-nl.png?raw=true" group-title="🏀体育频道",ESPN 4 NL
-http://86.87.15.10:8003/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-nl.png?raw=true" group-title="🏀体育频道",Ziggo Sport NL
 http://86.87.15.10:8008/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="Ziggo Sport 2 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-2-nl.png?raw=true" group-title="🏀体育频道",Ziggo Sport 2 NL
@@ -351,8 +349,6 @@ https://db7hpmv1jrjri.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0d75b22a-bd87-4d86-a290-dcb394242d5f/0.m3u8
 #EXTINF:-1 tvg-id="通化新闻综合" tvg-name="通化新闻综合" tvg-logo="https://live.fanmingming.com/tv/通化新闻综合.png" group-title="🏙️地方频道",通化新闻综合
 http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
-#EXTINF:-1 tvg-id="港台电视 31" tvg-name="港台电视 31" tvg-logo="https://live.fanmingming.com/tv/港台电视 31.png" group-title="🇭🇰港澳频道",港台电视 31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="TV BRICS Chinese" tvg-name="TV BRICS Chinese" tvg-logo="https://live.fanmingming.com/tv/TV BRICS Chinese.png" group-title="🌍国际频道",TV BRICS Chinese
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://live.fanmingming.com/tv/ABC News.png" group-title="🌍国际频道",ABC News
