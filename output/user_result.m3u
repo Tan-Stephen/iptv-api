@@ -77,8 +77,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-id="Russia.Today..sg" tvg-name="RT RU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/russia-today-int.png?raw=true" group-title="📰新闻财经",RT RU
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="Al.Jazeera.English.ca2" tvg-name="Al Jazeera English QA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/aljazeera-uk.png?raw=true" group-title="📰新闻财经",Al Jazeera English QA
-https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/BBC_America_2015_%28White_square%29.svg/revision/latest/scale-to-width-down/250?cb=20250929174323" group-title="📰新闻财经",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="CityNews Toronto CA" tvg-name="CityNews Toronto CA" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Citynews.png" group-title="📰新闻财经",CityNews Toronto CA
@@ -329,14 +327,8 @@ https://d1xc25jm9e0l4b.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://dt1s4l2cmiyit.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/530416f1-5263-4b76-b173-89ec9966d010/3.m3u8
 #EXTINF:-1 tvg-id="DE23000015Y" tvg-name="Deluxe Dance By Kontor DE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE23000015Y_20250107T024826SQUARE.png" group-title="🌍欧美频道",Deluxe Dance By Kontor DE
 https://d37i8mvsaxucfl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0785d94zsjwwd/5ad2bbc2-9a48-4959-8c7a-e94242429fa0/3.m3u8
-#EXTINF:-1 tvg-id="DEBA150003050" tvg-name="Deluxe Deutschpop DE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20250107T024034SQUARE.png" group-title="🌍欧美频道",Deluxe Deutschpop DE
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bba3d9f4-ec03-45b0-81c3-b1aa633ccfdd/0.m3u8
-#EXTINF:-1 tvg-id="DEAH3904006A" tvg-name="Deluxe Lounge DE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20250107T023852SQUARE.png" group-title="🌍欧美频道",Deluxe Lounge DE
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/1e367167-2283-48ff-9825-c85c2af73093/0.m3u8
 #EXTINF:-1 tvg-id="DEBD3800001QD" tvg-name="Deluxe RAP DE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3800001QD_20250107T024317SQUARE.png" group-title="🌍欧美频道",Deluxe RAP DE
 https://db7hpmv1jrjri.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m380ud5ckv9kb/b0ddd142-6bee-4a68-a804-7c42acd2fbe6/3.m3u8
-#EXTINF:-1 tvg-id="DE340000678" tvg-name="Deluxe Summertime DE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE340000678_20260331T032435SQUARE.png" group-title="🌍欧美频道",Deluxe Summertime DE
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0d75b22a-bd87-4d86-a290-dcb394242d5f/0.m3u8
 #EXTINF:-1 tvg-id="通化新闻综合" tvg-name="通化新闻综合" tvg-logo="https://live.fanmingming.com/tv/通化新闻综合.png" group-title="🏙️地方频道",通化新闻综合
 http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 #EXTINF:-1 tvg-id="TV BRICS Chinese" tvg-name="TV BRICS Chinese" tvg-logo="https://live.fanmingming.com/tv/TV BRICS Chinese.png" group-title="🌍国际频道",TV BRICS Chinese

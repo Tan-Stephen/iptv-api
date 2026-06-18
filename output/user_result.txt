@@ -42,7 +42,6 @@ Euronews FR,https://aka-live1050.delivery.roku.com/f5af26d1-822b-43f3-93f4-2301a
 DW English DE,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 TRT World TR,https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
 RT RU,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-Al Jazeera English QA,https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 BBC America,http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 CityNews Toronto CA,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-3MBPS.m3u8
 CNN Originals,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/3836c9f5-9b7c-4254-90fd-4c8bcfca7f8f/3.m3u8
@@ -178,10 +177,7 @@ XITE Rock x Metal,https://d198ro05q94rc4.cloudfront.net/v1/manifest/3722c60a815c
 XITE Siempre Latino,https://d1xc25jm9e0l4b.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/9e3a27bc-6360-4e2f-b758-a4edcfdef194/3.m3u8
 XITE Spring Vibes,https://dt1s4l2cmiyit.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/530416f1-5263-4b76-b173-89ec9966d010/3.m3u8
 Deluxe Dance By Kontor DE,https://d37i8mvsaxucfl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0785d94zsjwwd/5ad2bbc2-9a48-4959-8c7a-e94242429fa0/3.m3u8
-Deluxe Deutschpop DE,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bba3d9f4-ec03-45b0-81c3-b1aa633ccfdd/0.m3u8
-Deluxe Lounge DE,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/1e367167-2283-48ff-9825-c85c2af73093/0.m3u8
 Deluxe RAP DE,https://db7hpmv1jrjri.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m380ud5ckv9kb/b0ddd142-6bee-4a68-a804-7c42acd2fbe6/3.m3u8
-Deluxe Summertime DE,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0d75b22a-bd87-4d86-a290-dcb394242d5f/0.m3u8
 
 🏙️地方频道,#genre#
 通化新闻综合,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
