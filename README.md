@@ -7,6 +7,15 @@
   ⚡️IPTV直播源自动更新平台，『🤖全自动采集、筛选、测速、生成🚀』，支持丰富的个性化配置，将结果地址输入播放器即可观看
 </p>
 
+> [!IMPORTANT]
+> **直播订阅地址（点击代码块右上角按钮可一键复制）**
+
+```text
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/user_result.m3u
+```
+
+[点击打开订阅源](https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/user_result.m3u)
+
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/govin)
 
 <p align="center">
