@@ -127,8 +127,6 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/aab88f58-adb6-4466-aceb-3b71a6f23411/4.m3u8
 #EXTINF:-1 tvg-id="USBD12000255B" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/63d91d2560bc8f0008a225e4/colorLogoPNG_1750064962067.png" group-title="🏀体育频道",FIFA+
 https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/88fc28a8-62ec-492a-9f34-8b52fd57f5d1/2.m3u8
-#EXTINF:-1 tvg-id="USBD300021B8" tvg-name="MSG SportsZone" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MSG_SportsZone_1920_1080_White1._SL500_FMpng_.png" group-title="🏀体育频道",MSG SportsZone
-https://d2a31kzot4f8t3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8c6otsdsok8vf/cf4c5a15-ce59-4e83-9f4b-71c2f42aa8c9/2.m3u8
 #EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports NOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" group-title="🏀体育频道",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8
 #EXTINF:-1 tvg-id="US350000231" tvg-name="PFL" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/PFL_032426_Station_Logo_Art_Transparent._SL500_FMpng_.png" group-title="🏀体育频道",PFL
@@ -167,8 +165,6 @@ https://aka-live1050.delivery.roku.com/9f8d19b2-1dfc-432a-bc3e-e1dacf2f0e4e/t2-o
 https://aka-live1050.delivery.roku.com/1c6ad6fa-bf05-4887-9469-74eb48c81627/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-id="CA35000044I" tvg-name="FilmRise Horror" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6a0629e467b5502c906136dadac290a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001400459_RokuChannel_FilmRiseHorror_HUD_Logo_260x147.png" group-title="🎬影视剧场",FilmRise Horror
 https://aka-live1050.delivery.roku.com/148be9ff-1ae2-439c-a3f0-fd55dfa506ab/t2-origin/out/v1/live_720.m3u8
-#EXTINF:-1 tvg-id="c423f0f050355a6fb8bcf7644af61852" tvg-name="FilmRise Sci-Fi" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c423f0f050355a6fb8bcf7644af61852/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158273703_RokuChannel_FilmRiseSciFI_HUD_Logo_260x147.png" group-title="🎬影视剧场",FilmRise Sci-Fi
-https://aka-live1050.delivery.roku.com/3f4654d4-df13-4453-b224-3e5f73dcdc7b/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-id="CAAJ27000159K" tvg-name="FilmRise Western" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_Western_FireTV_Logo_1920x1080._SL500_FMpng_.png" group-title="🎬影视剧场",FilmRise Western
 https://aka-live1050.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-id="5263332f746c6b1bed25aa6c105a79d9" tvg-name="MGM Present" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_us._SL500_FMpng_.png" group-title="🎬影视剧场",MGM Present
