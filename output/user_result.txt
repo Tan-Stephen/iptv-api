@@ -82,7 +82,6 @@ TSN The Ocho CA,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c19
 🎬影视剧场,#genre#
 AMC Thrillers,https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8
 BET x Tyler Perry Comedy,https://d3vmpkkd3o2grv.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0l5146z4a61ea/d781f4e4-9c34-4042-977e-42e40289ad73/0.m3u8
-BET x Tyler Perry Drama,https://doumbtmvnsp0z.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4l5s0dxe6davu/ccbab86b-a9a5-40cd-ad18-32649a245b41/0.m3u8
 CW Forever,https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
 CW Gold,https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8
 FilmRise British TV,https://aka-live1050.delivery.roku.com/d83b2941-9473-4d27-adb0-aec056e72ef8/t2-origin/out/v1/live_720.m3u8
