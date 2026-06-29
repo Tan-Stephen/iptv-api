@@ -117,8 +117,6 @@ http://86.87.15.10:8003/play/a01w/index.m3u8
 http://86.87.15.10:8003/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.3.nl" tvg-name="ESPN 3 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/espn-3-nl.png?raw=true" group-title="🏀体育频道",ESPN 3 NL
 http://86.87.15.10:8001/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-nl.png?raw=true" group-title="🏀体育频道",Ziggo Sport NL
-http://86.87.15.10:8008/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="99991627" tvg-name="Billiard TV" tvg-logo="https://lge-static.ottera.tv/prod/bbb/linear_channel/anamorphic-logo/465x200/billiard_.png" group-title="🏀体育频道",Billiard TV
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8076993c-bbf4-4dbc-a77a-9b70047f90e0/4.m3u8
 #EXTINF:-1 tvg-id="ESPN8.The.Ocho.us2" tvg-name="ESPN8: The Ocho" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/ESPN8_The_Ocho.png" group-title="🏀体育频道",ESPN8: The Ocho
@@ -199,8 +197,6 @@ https://aka-live1050.delivery.roku.com/314957f6-8e52-4bf6-aba2-27193c314772/t2-o
 https://dh18i7whff86v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/fc2273de-2ae1-4ed2-905d-739cf431eb30/0.m3u8
 #EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="Love Nature 4K" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Love_Nature.png" group-title="📚纪录科教",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-us.png?raw=true" group-title="📚纪录科教",Discovery
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="📚纪录科教",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-id="62945e18ab825bfd8b4995d9bd14917b" tvg-name="FilmRise Forensic Files" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_ForenscFiles_FireTV_Logo_1920x1080._SL500_FMpng_.png" group-title="📚纪录科教",FilmRise Forensic Files
@@ -251,8 +247,6 @@ http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="🌍欧美频道",Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="🌍欧美频道",VH1
-http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE tv" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="🌍欧美频道",WE tv
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RMC.Découverte.fr" tvg-name="RMC Découverte FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/RMC_Découverte_2025.svg" group-title="🌍欧美频道",RMC Découverte FR

@@ -64,7 +64,6 @@ TNT Sports 1 UK,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343.ts
 ESPN NL,http://86.87.15.10:8003/play/a01w/index.m3u8
 ESPN 2 NL,http://86.87.15.10:8003/play/a022/index.m3u8
 ESPN 3 NL,http://86.87.15.10:8001/play/a01k/index.m3u8
-Ziggo Sport NL,http://86.87.15.10:8008/play/a01h/index.m3u8
 Billiard TV,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8076993c-bbf4-4dbc-a77a-9b70047f90e0/4.m3u8
 ESPN8: The Ocho,https://d3b6q2ou5kp8ke.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/aab88f58-adb6-4466-aceb-3b71a6f23411/4.m3u8
 FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/88fc28a8-62ec-492a-9f34-8b52fd57f5d1/2.m3u8
@@ -111,7 +110,6 @@ The LEGO Channel,https://dh18i7whff86v.cloudfront.net/v1/manifest/3722c60a815c19
 
 📚纪录科教,#genre#
 Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-Discovery,http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 National Geographic,http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 FilmRise Forensic Files,https://aka-live1050.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live_720.m3u8
 FilmRise Mysteries,https://aka-live1050.delivery.roku.com/6958d32d-d93b-4cbd-81ca-aab20001570b/t2-origin/out/v1/live_720.m3u8
@@ -139,7 +137,6 @@ MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 Outdoor Channel,http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 Paramount Network,http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 Syfy,http://23.237.104.106:8080/USA_SYFY/index.m3u8
-VH1,http://23.237.104.106:8080/USA_VH1/index.m3u8
 WE tv,http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 RMC Découverte FR,https://d1dagx0hs2fkxs.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2p2o2x977e2oh/1684a6c6-7cce-480a-88c0-aff91aab84f5/0.m3u8
 RMC Story FR,https://d171yrj5ba7twq.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-c5al169c4n0ck/63cd71b0-38bc-4416-8e96-4384ea5bac34/0.m3u8

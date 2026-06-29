@@ -1,10 +1,26 @@
 {
-  "generated_at": "2026-06-28 22:43:51",
+  "generated_at": "2026-06-29 12:04:20",
   "input_entries": 161,
   "unique_urls": 161,
-  "valid_entries": 161,
-  "valid_channels": 158,
-  "invalid_entries": [],
+  "valid_entries": 158,
+  "valid_channels": 155,
+  "invalid_entries": [
+    {
+      "channel": "Ziggo Sport NL",
+      "url": "http://86.87.15.10:8008/play/a01h/index.m3u8",
+      "error": "probe timeout"
+    },
+    {
+      "channel": "Discovery",
+      "url": "http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8",
+      "error": "http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8: Server returned 404 Not Found"
+    },
+    {
+      "channel": "VH1",
+      "url": "http://23.237.104.106:8080/USA_VH1/index.m3u8",
+      "error": "http://23.237.104.106:8080/USA_VH1/index.m3u8: Connection timed out"
+    }
+  ],
   "valid_streams": [
     {
       "channel": "CCTV-1",
@@ -20,7 +36,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 89
+      "video_packets": 72
     },
     {
       "channel": "CCTV-1",
@@ -36,7 +52,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "CCTV-3",
@@ -60,7 +76,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-6",
@@ -84,7 +100,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-8",
@@ -92,7 +108,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "CCTV-10",
@@ -100,7 +116,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CCTV-11",
@@ -108,7 +124,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-12",
@@ -116,7 +132,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CCTV-13",
@@ -124,22 +140,22 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-14",
       "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 75
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
     },
     {
       "channel": "CCTV-15",
       "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
+      "width": 1920,
+      "height": 1080,
       "video_packets": 72
     },
     {
@@ -148,7 +164,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "CGTN CN",
@@ -162,9 +178,9 @@
       "channel": "广东卫视",
       "url": "http://74.91.26.218:82/live/gdwshd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 87
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
     },
     {
       "channel": "浙江卫视",
@@ -180,7 +196,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "东方卫视",
@@ -236,7 +252,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "LiveNOW from FOX",
@@ -252,7 +268,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "Newsmax",
@@ -300,7 +316,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 153
+      "video_packets": 149
     },
     {
       "channel": "TRT World TR",
@@ -316,7 +332,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "BBC America",
@@ -324,7 +340,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 179
+      "video_packets": 177
     },
     {
       "channel": "CityNews Toronto CA",
@@ -354,9 +370,9 @@
       "channel": "BBC One UK 01",
       "url": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 152
+      "width": 1280,
+      "height": 720,
+      "video_packets": 149
     },
     {
       "channel": "ACC Network",
@@ -396,7 +412,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 176
+      "video_packets": 177
     },
     {
       "channel": "MSG",
@@ -404,7 +420,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 179
+      "video_packets": 177
     },
     {
       "channel": "NBA TV",
@@ -412,7 +428,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 176
+      "video_packets": 177
     },
     {
       "channel": "NFL Network",
@@ -428,7 +444,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 179
+      "video_packets": 177
     },
     {
       "channel": "Spectrum SportsNet Los Angeles",
@@ -452,7 +468,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 113
     },
     {
       "channel": "ESPN NL",
@@ -460,7 +476,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 78
+      "video_packets": 110
     },
     {
       "channel": "ESPN 2 NL",
@@ -468,7 +484,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 78
+      "video_packets": 80
     },
     {
       "channel": "ESPN 3 NL",
@@ -476,15 +492,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 83
-    },
-    {
-      "channel": "Ziggo Sport NL",
-      "url": "http://86.87.15.10:8008/play/a01h/index.m3u8",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 95
+      "video_packets": 78
     },
     {
       "channel": "Billiard TV",
@@ -660,7 +668,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "MGM Present",
@@ -684,7 +692,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "OuterSphere by Lionsgate",
@@ -708,7 +716,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 31
     },
     {
       "channel": "Universal Action",
@@ -724,7 +732,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 31
     },
     {
       "channel": "Universal Western",
@@ -732,7 +740,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "BritBox Mysteries UK",
@@ -807,20 +815,12 @@
       "video_packets": 88
     },
     {
-      "channel": "Discovery",
-      "url": "http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 177
-    },
-    {
       "channel": "National Geographic",
       "url": "http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8",
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 180
+      "video_packets": 177
     },
     {
       "channel": "FilmRise Forensic Files",
@@ -828,7 +828,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "FilmRise Mysteries",
@@ -876,7 +876,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "CTV Gridlock CA",
@@ -940,7 +940,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 178
+      "video_packets": 179
     },
     {
       "channel": "Comet",
@@ -956,7 +956,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 178
+      "video_packets": 177
     },
     {
       "channel": "E!",
@@ -996,7 +996,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 177
+      "video_packets": 179
     },
     {
       "channel": "Paramount Network",
@@ -1004,7 +1004,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 177
+      "video_packets": 175
     },
     {
       "channel": "Syfy",
@@ -1012,15 +1012,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 177
-    },
-    {
-      "channel": "VH1",
-      "url": "http://23.237.104.106:8080/USA_VH1/index.m3u8",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 179
+      "video_packets": 180
     },
     {
       "channel": "WE tv",
@@ -1028,7 +1020,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 179
+      "video_packets": 177
     },
     {
       "channel": "RMC Découverte FR",
@@ -1068,7 +1060,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "CTV Laughs CA",
@@ -1084,7 +1076,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 85
     },
     {
       "channel": "Vevo '70s",
@@ -1124,7 +1116,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "Vevo Hip-Hop",
@@ -1132,7 +1124,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Vevo Latino",
@@ -1156,7 +1148,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "Vevo Rock",
@@ -1172,7 +1164,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "XITE 90s Throwback",
@@ -1180,7 +1172,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "XITE Hits",
@@ -1188,7 +1180,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "XITE Just Chill",
@@ -1220,15 +1212,15 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "Deluxe Dance By Kontor DE",
       "url": "https://d37i8mvsaxucfl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0785d94zsjwwd/5ad2bbc2-9a48-4959-8c7a-e94242429fa0/3.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 76
+      "width": 1280,
+      "height": 720,
+      "video_packets": 75
     },
     {
       "channel": "Deluxe RAP DE",
@@ -1244,7 +1236,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "TV BRICS Chinese",
@@ -1260,7 +1252,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "Chifeng News",
@@ -1276,7 +1268,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 179
+      "video_packets": 177
     },
     {
       "channel": "France 24 English",
@@ -1284,7 +1276,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CNBC",
@@ -1292,7 +1284,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 178
+      "video_packets": 177
     }
   ]
 }
