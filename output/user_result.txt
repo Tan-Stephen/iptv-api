@@ -62,7 +62,6 @@ Spectrum SportsNet Los Angeles,http://s.rocketdns.info:8080/live/monstercable/Dq
 SportsNet New York,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts
 TNT Sports 1 UK,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343.ts
 ESPN NL,http://86.87.15.10:8003/play/a01w/index.m3u8
-ESPN 2 NL,http://86.87.15.10:8003/play/a022/index.m3u8
 ESPN 3 NL,http://86.87.15.10:8001/play/a01k/index.m3u8
 Billiard TV,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8076993c-bbf4-4dbc-a77a-9b70047f90e0/4.m3u8
 ESPN8: The Ocho,https://d3b6q2ou5kp8ke.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/aab88f58-adb6-4466-aceb-3b71a6f23411/4.m3u8
@@ -136,7 +135,6 @@ ION Television,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b213
 MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 Outdoor Channel,http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 Paramount Network,http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-Syfy,http://23.237.104.106:8080/USA_SYFY/index.m3u8
 WE tv,http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 RMC Découverte FR,https://d1dagx0hs2fkxs.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2p2o2x977e2oh/1684a6c6-7cce-480a-88c0-aff91aab84f5/0.m3u8
 RMC Story FR,https://d171yrj5ba7twq.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-c5al169c4n0ck/63cd71b0-38bc-4416-8e96-4384ea5bac34/0.m3u8

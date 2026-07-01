@@ -113,8 +113,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts
 http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343.ts
 #EXTINF:-1 tvg-id="ESPN.nl" tvg-name="ESPN NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/espn-nl.png?raw=true" group-title="🏀体育频道",ESPN NL
 http://86.87.15.10:8003/play/a01w/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.nl" tvg-name="ESPN 2 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/espn-2-nl.png?raw=true" group-title="🏀体育频道",ESPN 2 NL
-http://86.87.15.10:8003/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.3.nl" tvg-name="ESPN 3 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/espn-3-nl.png?raw=true" group-title="🏀体育频道",ESPN 3 NL
 http://86.87.15.10:8001/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="99991627" tvg-name="Billiard TV" tvg-logo="https://lge-static.ottera.tv/prod/bbb/linear_channel/anamorphic-logo/465x200/billiard_.png" group-title="🏀体育频道",Billiard TV
@@ -245,8 +243,6 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/250px-Paramount_Network.svg.png" group-title="🌍欧美频道",Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="🌍欧美频道",Syfy
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE tv" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="🌍欧美频道",WE tv
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RMC.Découverte.fr" tvg-name="RMC Découverte FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/RMC_Découverte_2025.svg" group-title="🌍欧美频道",RMC Découverte FR
