@@ -91,18 +91,12 @@ http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
 http://23.237.104.106:8080/USA_ACCN/index.m3u8
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="🏀体育频道",beIN SPORTS
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="🏀体育频道",CBS Sports Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true" group-title="🏀体育频道",ESPNU
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel" tvg-logo="https://assets.golfchannel.com/dims4/default/99b3a9a/2147483647/strip/true/crop/1667x520+0+0/resize/400x125!/quality/90/?url=https%3A%2F%2Fversant-production-golfchannel.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2Fee%2F30a68fd248e6a5a42641759cc752%2Fgc-rgb-horizontal-logo-reverse-dark-bg.png" group-title="🏀体育频道",Golf Channel
 http://23.237.104.106:8080/USA_GOLF/index.m3u8
-#EXTINF:-1 tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msg-us.png?raw=true" group-title="🏀体育频道",MSG
-http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/330px-NBA_TV.svg.png" group-title="🏀体育频道",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/sports/leagues/nfl-us.png?raw=true" group-title="🏀体育频道",NFL Network
-http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="🏀体育频道",SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="Spectrum SportsNet Los Angeles" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/spectrum-sportsnet-la-us.png?raw=true" group-title="🏀体育频道",Spectrum SportsNet Los Angeles

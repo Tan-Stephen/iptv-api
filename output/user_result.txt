@@ -51,12 +51,9 @@ BBC Antiques Roadshow UK,https://dbbg0ax8bgo7d.cloudfront.net/v1/manifest/3722c6
 BBC One UK 01,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
 ACC Network,http://23.237.104.106:8080/USA_ACCN/index.m3u8
 beIN SPORTS,http://23.237.104.106:8080/USA_BEIN/index.m3u8
-CBS Sports Network,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts
 ESPNU,http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 Golf Channel,http://23.237.104.106:8080/USA_GOLF/index.m3u8
-MSG,http://23.237.104.106:8080/USA_MSG/index.m3u8
 NBA TV,http://23.237.104.106:8080/USA_NBA/index.m3u8
-NFL Network,http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 SEC Network,http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 Spectrum SportsNet Los Angeles,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts
 SportsNet New York,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts
