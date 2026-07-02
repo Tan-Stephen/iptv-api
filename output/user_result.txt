@@ -133,7 +133,6 @@ E!,http://23.237.104.106:8080/USA_E/index.m3u8
 Food Network,http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 ION Television,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a5e7ebd8-80a4-49ed-8337-3f63f84673cc/1.m3u8
 MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-Outdoor Channel,http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 Paramount Network,http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 WE tv,http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 RMC Découverte FR,https://d1dagx0hs2fkxs.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2p2o2x977e2oh/1684a6c6-7cce-480a-88c0-aff91aab84f5/0.m3u8
