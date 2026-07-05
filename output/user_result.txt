@@ -13,7 +13,6 @@ CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
-CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
@@ -117,9 +116,7 @@ The Judge Judy Channel,https://pddl.sharewithyou.dpdns.org/?play=https://amd-med
 CTV Gridlock CA,https://dhjd4u7ds8bgi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ses39ewew36zq/edd17cd1-3ddc-42bd-9941-e780391c4ff5/3.m3u8
 
 🌍欧美频道,#genre#
-AMC,http://23.239.31.26:8989/amc/index.m3u8
 Animal Planet,http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-AXS TV,http://23.239.31.26:8989/axstv/index.m3u8
 Boomerang,http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 BounceTV,http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 CMT,http://23.237.104.106:8080/USA_CMT/index.m3u8
