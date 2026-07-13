@@ -37,18 +37,12 @@ Euronews FR,https://aka-live1050.delivery.roku.com/f5af26d1-822b-43f3-93f4-2301a
 DW English DE,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 TRT World TR,https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
 RT RU,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-BBC America,http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 CityNews Toronto CA,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-3MBPS.m3u8
 CNN Originals,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/3836c9f5-9b7c-4254-90fd-4c8bcfca7f8f/3.m3u8
 BBC Antiques Roadshow UK,https://dbbg0ax8bgo7d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rr52e88156vv-prod/4e195c60-6424-49aa-9666-ace19f590582/2.m3u8
 
 🏀体育频道,#genre#
 BBC One UK 01,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
-ACC Network,http://23.237.104.106:8080/USA_ACCN/index.m3u8
-ESPNU,http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-Golf Channel,http://23.237.104.106:8080/USA_GOLF/index.m3u8
-NBA TV,http://23.237.104.106:8080/USA_NBA/index.m3u8
-SEC Network,http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 Spectrum SportsNet Los Angeles,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts
 SportsNet New York,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts
 TNT Sports 1 UK,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343.ts
@@ -94,13 +88,11 @@ Sony One Comedy TV UK,https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-we
 Sony One Thriller TV UK,https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/02d6917b-e5da-46e2-82d5-c3b3103bfd0e/0.m3u8
 
 🧒少儿动漫,#genre#
-Cartoon Network,http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 Sensical Gaming,https://aka-live1050.delivery.roku.com/314957f6-8e52-4bf6-aba2-27193c314772/t2-origin/out/v1/live_1080.m3u8
 The LEGO Channel,https://dh18i7whff86v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/fc2273de-2ae1-4ed2-905d-739cf431eb30/0.m3u8
 
 📚纪录科教,#genre#
 Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-National Geographic,http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 FilmRise Forensic Files,https://aka-live1050.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live_720.m3u8
 FilmRise Mysteries,https://aka-live1050.delivery.roku.com/6958d32d-d93b-4cbd-81ca-aab20001570b/t2-origin/out/v1/live_720.m3u8
 FilmRise True Crime,https://aka-live1050.delivery.roku.com/22b66942-f85a-4a33-9440-61fea2cac667/t2-origin/out/v1/live_720.m3u8
@@ -111,19 +103,8 @@ The Judge Judy Channel,https://pddl.sharewithyou.dpdns.org/?play=https://amd-med
 CTV Gridlock CA,https://dhjd4u7ds8bgi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ses39ewew36zq/edd17cd1-3ddc-42bd-9941-e780391c4ff5/3.m3u8
 
 🌍欧美频道,#genre#
-Animal Planet,http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-Boomerang,http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-BounceTV,http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
-CMT,http://23.237.104.106:8080/USA_CMT/index.m3u8
-Comedy Central,http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 Comet,https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
-Cooking Channel,http://23.237.104.106:8080/USA_COOKING/index.m3u8
-E!,http://23.237.104.106:8080/USA_E/index.m3u8
-Food Network,http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 ION Television,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a5e7ebd8-80a4-49ed-8337-3f63f84673cc/1.m3u8
-MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-Paramount Network,http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-WE tv,http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 RMC Découverte FR,https://d1dagx0hs2fkxs.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2p2o2x977e2oh/1684a6c6-7cce-480a-88c0-aff91aab84f5/0.m3u8
 RMC Story FR,https://d171yrj5ba7twq.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-c5al169c4n0ck/63cd71b0-38bc-4416-8e96-4384ea5bac34/0.m3u8
 PBS Food,https://aka-live1050.delivery.roku.com/96414c68-02f2-4e5c-8e5d-355025ccf724/t2-origin/out/v1/live_1080.m3u8
@@ -158,6 +139,5 @@ Deluxe RAP DE,https://db7hpmv1jrjri.cloudfront.net/v1/manifest/3722c60a815c199d9
 TV BRICS Chinese,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 Chifeng News,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
-BBC News,http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 France 24 English,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 CNBC,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1346
