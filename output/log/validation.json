@@ -1,109 +1,14 @@
 {
-  "generated_at": "2026-07-13 12:44:28",
-  "input_entries": 144,
-  "unique_urls": 144,
-  "valid_entries": 124,
-  "valid_channels": 123,
+  "generated_at": "2026-07-13 23:17:44",
+  "input_entries": 124,
+  "unique_urls": 124,
+  "valid_entries": 123,
+  "valid_channels": 122,
   "invalid_entries": [
     {
-      "channel": "BBC America",
-      "url": "http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "ACC Network",
-      "url": "http://23.237.104.106:8080/USA_ACCN/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_ACCN/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "ESPNU",
-      "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "Golf Channel",
-      "url": "http://23.237.104.106:8080/USA_GOLF/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_GOLF/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "NBA TV",
-      "url": "http://23.237.104.106:8080/USA_NBA/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_NBA/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "SEC Network",
-      "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "Cartoon Network",
-      "url": "http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "National Geographic",
-      "url": "http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "Animal Planet",
-      "url": "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "Boomerang",
-      "url": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "BounceTV",
-      "url": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "CMT",
-      "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_CMT/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "Comedy Central",
-      "url": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "Cooking Channel",
-      "url": "http://23.237.104.106:8080/USA_COOKING/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_COOKING/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "E!",
-      "url": "http://23.237.104.106:8080/USA_E/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_E/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "Food Network",
-      "url": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "MTV Live",
-      "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "Paramount Network",
-      "url": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "WE tv",
-      "url": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8: Connection timed out"
-    },
-    {
-      "channel": "BBC News",
-      "url": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8",
-      "error": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8: Connection timed out"
+      "channel": "CNBC",
+      "url": "http://89.187.179.148:826/anto.j/c9yJDcXyPe/1346",
+      "error": "http://89.187.179.148:826/anto.j/c9yJDcXyPe/1346: Server returned 401 Unauthorized (authorization failed)"
     }
   ],
   "valid_streams": [
@@ -113,7 +18,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-3",
@@ -129,7 +34,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "CCTV-6",
@@ -137,7 +42,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 180
     },
     {
       "channel": "CCTV-6",
@@ -145,7 +50,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 90
     },
     {
       "channel": "CCTV-7",
@@ -153,15 +58,15 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-8",
       "url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 87
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 73
     },
     {
       "channel": "CCTV-10",
@@ -169,7 +74,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-11",
@@ -177,7 +82,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CCTV-12",
@@ -191,17 +96,17 @@
       "channel": "CCTV-14",
       "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 73
+      "width": 1280,
+      "height": 720,
+      "video_packets": 87
     },
     {
       "channel": "CCTV-15",
       "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 73
+      "width": 1280,
+      "height": 720,
+      "video_packets": 72
     },
     {
       "channel": "CCTV-17",
@@ -233,7 +138,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "湖南卫视",
@@ -255,9 +160,9 @@
       "channel": "东南卫视",
       "url": "http://198.204.240.250:82/live/dnws.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 73
+      "width": 1280,
+      "height": 720,
+      "video_packets": 87
     },
     {
       "channel": "河北卫视",
@@ -265,7 +170,7 @@
       "codec": "h264",
       "width": 3840,
       "height": 2160,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "江苏卫视",
@@ -273,7 +178,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "深圳卫视",
@@ -313,7 +218,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "Newsmax",
@@ -393,7 +298,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "BBC Antiques Roadshow UK",
@@ -431,9 +336,9 @@
       "channel": "TNT Sports 1 UK",
       "url": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343.ts",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 75
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 145
     },
     {
       "channel": "ESPN NL",
@@ -441,7 +346,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 117
     },
     {
       "channel": "ESPN 3 NL",
@@ -449,7 +354,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 78
+      "video_packets": 110
     },
     {
       "channel": "Billiard TV",
@@ -529,7 +434,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "World Fishing Network",
@@ -545,7 +450,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "TSN The Ocho CA",
@@ -609,7 +514,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "FilmRise Horror",
@@ -649,7 +554,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "OuterSphere by Lionsgate",
@@ -673,7 +578,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Universal Action",
@@ -729,7 +634,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "Sony One Thriller TV UK",
@@ -777,7 +682,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "FilmRise True Crime",
@@ -793,7 +698,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "Nature Moments",
@@ -817,7 +722,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "CTV Gridlock CA",
@@ -849,7 +754,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "RMC Story FR",
@@ -857,7 +762,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 72
     },
     {
       "channel": "PBS Food",
@@ -873,7 +778,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "CTV Gets Real CA",
@@ -881,7 +786,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "CTV Laughs CA",
@@ -897,7 +802,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 85
     },
     {
       "channel": "Vevo '70s",
@@ -937,7 +842,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Vevo Hip-Hop",
@@ -969,7 +874,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "Vevo Rock",
@@ -985,7 +890,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "XITE 90s Throwback",
@@ -1001,7 +906,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "XITE Just Chill",
@@ -1017,7 +922,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "XITE Rock x Metal",
@@ -1025,7 +930,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "XITE Spring Vibes",
@@ -1041,7 +946,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "Deluxe RAP DE",
@@ -1049,7 +954,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "通化新闻综合",
@@ -1057,7 +962,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "TV BRICS Chinese",
@@ -1081,7 +986,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "France 24 English",
@@ -1090,14 +995,6 @@
       "width": 1920,
       "height": 1080,
       "video_packets": 75
-    },
-    {
-      "channel": "CNBC",
-      "url": "http://89.187.179.148:826/anto.j/c9yJDcXyPe/1346",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 177
     }
   ]
 }
