@@ -65,8 +65,6 @@ https://aka-live1050.delivery.roku.com/f5af26d1-822b-43f3-93f4-2301a947e1f3/t2-o
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="TRT.World.HD.uk" tvg-name="TRT World TR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-world-tr.png?raw=true" group-title="📰新闻财经",TRT World TR
 https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 tvg-id="Russia.Today..sg" tvg-name="RT RU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/russia-today-int.png?raw=true" group-title="📰新闻财经",RT RU
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="CityNews Toronto CA" tvg-name="CityNews Toronto CA" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Citynews.png" group-title="📰新闻财经",CityNews Toronto CA
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-3MBPS.m3u8
 #EXTINF:-1 tvg-id="99951387" tvg-name="CNN Originals" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/CNNOriginals_1920x1080_Logo._SL500_FMpng_.png" group-title="📰新闻财经",CNN Originals
