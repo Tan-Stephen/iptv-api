@@ -1165,7 +1165,26 @@ CETV-4
 双河生活  
 
 🇭🇰港澳频道,#genre#
-港台电视 31
+翡翠台
+明珠台
+无线新闻台
+J2
+无线财经·资讯台
+ViuTV
+ViuTVsix
+香港开电视
+Now新闻台
+Now直播台
+Now Sports系列
+Now 668
+Now Baogu影剧台
+有线新闻台
+有线财经资讯台
+有线18台
+公共广播
+港台电视31
+港台电视32
+港台电视33
 
 🌍国际频道,#genre#
 TV BRICS Chinese
@@ -1176,6 +1195,54 @@ Al Jazeera English
 France 24 English
 Bloomberg TV US
 CNBC
+CNN
+CBS
 
 🇹🇼台湾频道,#genre#
 TVBS Asia
+台视
+中视
+华视
+民视
+公视
+公视2
+公视3
+公视台语
+TVBS新闻
+东森新闻
+中天新闻
+三立新闻
+年代新闻
+非凡新闻
+寰宇新闻
+中视新闻
+民视新闻
+TVBS欢乐
+东森综合
+三立都会
+三立台湾
+八大综合
+纬来综合
+中天综合
+八大戏剧
+三立戏剧
+东森戏剧
+纬来戏剧
+龙华戏剧
+HBO
+卫视电影
+东森电影
+龙华电影
+Star Movies
+CATCHPLAY电影
+FOX体育
+博斯运动
+ELEVEN SPORTS
+东森幼幼
+MOMO亲子
+卡通频道
+迪士尼
+国家地理
+Discovery
+动物星球
+旅游生活
