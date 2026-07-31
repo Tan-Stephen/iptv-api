@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-29 14:07:21",
-  "input_entries": 109,
-  "unique_urls": 109,
-  "valid_entries": 108,
-  "valid_channels": 108,
+  "generated_at": "2026-07-31 11:52:21",
+  "input_entries": 108,
+  "unique_urls": 108,
+  "valid_entries": 107,
+  "valid_channels": 107,
   "invalid_entries": [
     {
-      "channel": "CCTV-6",
-      "url": "http://198.204.240.250:82/live/cctv6.m3u8",
-      "error": "probe timeout"
+      "channel": "BBC One UK 01",
+      "url": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts",
+      "error": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts: Server returned 403 Forbidden (access denied)"
     }
   ],
   "valid_streams": [
@@ -16,24 +16,24 @@
       "channel": "CCTV-2",
       "url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
+      "width": 1280,
+      "height": 720,
       "video_packets": 73
     },
     {
       "channel": "CCTV-3",
       "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
+      "width": 1280,
+      "height": 720,
       "video_packets": 73
     },
     {
       "channel": "CCTV-4",
       "url": "http://74.91.26.218:82/live/cctv4hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
+      "width": 1280,
+      "height": 720,
       "video_packets": 72
     },
     {
@@ -42,14 +42,14 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 74
     },
     {
       "channel": "CCTV-8",
       "url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
+      "width": 1280,
+      "height": 720,
       "video_packets": 73
     },
     {
@@ -74,7 +74,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-14",
@@ -90,7 +90,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CCTV-17",
@@ -128,8 +128,8 @@
       "channel": "湖南卫视",
       "url": "http://74.91.26.218:82/live/hnwshd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
+      "width": 1280,
+      "height": 720,
       "video_packets": 74
     },
     {
@@ -146,7 +146,7 @@
       "codec": "h264",
       "width": 3840,
       "height": 2160,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "江苏卫视",
@@ -154,7 +154,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "深圳卫视",
@@ -162,7 +162,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CNN",
@@ -186,7 +186,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "Newsmax",
@@ -234,7 +234,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 149
+      "video_packets": 153
     },
     {
       "channel": "TRT World TR",
@@ -269,20 +269,12 @@
       "video_packets": 90
     },
     {
-      "channel": "BBC One UK 01",
-      "url": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts",
-      "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 149
-    },
-    {
       "channel": "Spectrum SportsNet Los Angeles",
       "url": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts",
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 178
+      "video_packets": 177
     },
     {
       "channel": "SportsNet New York",
@@ -378,7 +370,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "TSN The Ocho CA",
@@ -394,7 +386,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 85
+      "video_packets": 90
     },
     {
       "channel": "CW Forever",
@@ -442,7 +434,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "FilmRise Western",
@@ -474,7 +466,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "OuterSphere by Lionsgate",
@@ -498,7 +490,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "Universal Crime",
@@ -506,7 +498,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "Universal Western",
@@ -514,7 +506,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 61
+      "video_packets": 89
     },
     {
       "channel": "BritBox Mysteries UK",
@@ -570,7 +562,7 @@
       "codec": "hevc",
       "width": 3840,
       "height": 2160,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "FilmRise Forensic Files",
@@ -578,7 +570,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "FilmRise Mysteries",
@@ -594,7 +586,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "MagellanTV Wildest",
@@ -626,7 +618,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "Comet",
@@ -650,7 +642,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "RMC Story FR",
@@ -658,7 +650,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "PBS Food",
@@ -690,7 +682,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Stingray DJAZZ",
@@ -698,7 +690,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 85
     },
     {
       "channel": "Vevo '70s",
@@ -730,7 +722,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Vevo Country",
@@ -754,7 +746,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Vevo Pop",
@@ -762,7 +754,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "Vevo R&B",
@@ -770,7 +762,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "Vevo Rock",
@@ -810,7 +802,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "XITE Nuevo Latino",
@@ -818,7 +810,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "XITE Rock x Metal",
@@ -826,7 +818,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "XITE Spring Vibes",
@@ -834,7 +826,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 71
     },
     {
       "channel": "Deluxe Dance By Kontor DE",
@@ -842,7 +834,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 76
     },
     {
       "channel": "Deluxe RAP DE",
@@ -850,7 +842,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "TV BRICS Chinese",
@@ -866,7 +858,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 72
     },
     {
       "channel": "France 24 English",
