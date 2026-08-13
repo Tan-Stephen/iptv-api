@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11 10:40:34",
+  "generated_at": "2026-08-13 10:51:18",
   "input_entries": 104,
   "unique_urls": 104,
   "valid_entries": 104,
@@ -12,14 +12,14 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "CCTV-3",
       "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
+      "width": 1920,
+      "height": 1080,
       "video_packets": 72
     },
     {
@@ -28,7 +28,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CCTV-7",
@@ -36,7 +36,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-8",
@@ -74,16 +74,16 @@
       "channel": "CCTV-14",
       "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
+      "width": 1280,
+      "height": 720,
       "video_packets": 73
     },
     {
       "channel": "CCTV-15",
       "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
+      "width": 1280,
+      "height": 720,
       "video_packets": 73
     },
     {
@@ -116,7 +116,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "湖南卫视",
@@ -124,7 +124,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "东方卫视",
@@ -148,7 +148,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "深圳卫视",
@@ -156,7 +156,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CNN",
@@ -196,7 +196,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "Sky News International",
@@ -340,7 +340,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "WWE Superstar Central",
@@ -348,7 +348,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "TSN The Ocho CA",
@@ -404,7 +404,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "FilmRise Horror",
@@ -412,7 +412,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "FilmRise Western",
@@ -468,7 +468,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "Universal Crime",
@@ -476,7 +476,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "Universal Western",
@@ -484,7 +484,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "BritBox Mysteries UK",
@@ -540,7 +540,7 @@
       "codec": "hevc",
       "width": 3840,
       "height": 2160,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "FilmRise Forensic Files",
@@ -620,7 +620,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "RMC Story FR",
@@ -628,7 +628,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "PBS Food",
@@ -668,7 +668,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 43
+      "video_packets": 2
     },
     {
       "channel": "Vevo '70s",
@@ -684,7 +684,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "Vevo '90s",
@@ -700,7 +700,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "Vevo Country",
@@ -708,7 +708,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "Vevo Hip-Hop",
@@ -716,7 +716,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Vevo Latino",
@@ -740,7 +740,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "XITE 80s Flashback",
@@ -748,7 +748,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "XITE 90s Throwback",
@@ -756,7 +756,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "XITE Hits",
@@ -780,7 +780,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "XITE Rock x Metal",
@@ -788,7 +788,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "XITE Spring Vibes",
@@ -796,7 +796,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "Deluxe Dance By Kontor DE",
