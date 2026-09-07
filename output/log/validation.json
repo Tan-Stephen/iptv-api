@@ -1,14 +1,29 @@
 {
-  "generated_at": "2026-09-05 13:05:29",
-  "input_entries": 95,
-  "unique_urls": 95,
-  "valid_entries": 94,
-  "valid_channels": 94,
+  "generated_at": "2026-09-07 15:22:16",
+  "input_entries": 94,
+  "unique_urls": 94,
+  "valid_entries": 90,
+  "valid_channels": 90,
   "invalid_entries": [
     {
-      "channel": "Vevo '90s",
-      "url": "https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live_1080.m3u8",
-      "error": "https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live_1080.m3u8: Invalid data found when processing input"
+      "channel": "Vevo '70s",
+      "url": "https://aka-live1050.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-origin/out/v1/live_1080.m3u8",
+      "error": "https://aka-live1050.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-origin/out/v1/live_1080.m3u8: Invalid data found when processing input"
+    },
+    {
+      "channel": "Vevo '80s",
+      "url": "https://aka-live1050.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b0128c/t2-origin/out/v1/live_1080.m3u8",
+      "error": "https://aka-live1050.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b0128c/t2-origin/out/v1/live_1080.m3u8: Invalid data found when processing input"
+    },
+    {
+      "channel": "Vevo 2K",
+      "url": "https://aka-live1050.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live_1080.m3u8",
+      "error": "https://aka-live1050.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live_1080.m3u8: Invalid data found when processing input"
+    },
+    {
+      "channel": "Vevo Country",
+      "url": "https://aka-live1050.delivery.roku.com/c852fbec-cd06-4040-904b-9a9481647a94/t2-origin/out/v1/live_1080.m3u8",
+      "error": "https://aka-live1050.delivery.roku.com/c852fbec-cd06-4040-904b-9a9481647a94/t2-origin/out/v1/live_1080.m3u8: Invalid data found when processing input"
     }
   ],
   "valid_streams": [
@@ -16,9 +31,9 @@
       "channel": "CCTV-2",
       "url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 72
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
     },
     {
       "channel": "CCTV-3",
@@ -32,9 +47,9 @@
       "channel": "CCTV-4",
       "url": "http://74.91.26.218:82/live/cctv4hd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 74
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
     },
     {
       "channel": "CCTV-7",
@@ -48,9 +63,9 @@
       "channel": "CCTV-8",
       "url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 73
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
     },
     {
       "channel": "CCTV-10",
@@ -58,7 +73,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "CCTV-11",
@@ -80,25 +95,25 @@
       "channel": "CCTV-14",
       "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 74
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
     },
     {
       "channel": "CCTV-15",
       "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 74
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
     },
     {
       "channel": "CCTV-17",
       "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 73
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
     },
     {
       "channel": "CGTN CN",
@@ -152,9 +167,9 @@
       "channel": "江苏卫视",
       "url": "http://74.91.26.218:82/live/jswshd.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 179
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 75
     },
     {
       "channel": "深圳卫视",
@@ -170,7 +185,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "LiveNOW from FOX",
@@ -194,7 +209,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Reuters",
@@ -258,7 +273,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "BBC Antiques Roadshow UK",
@@ -266,7 +281,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 86
+      "video_packets": 90
     },
     {
       "channel": "Billiard TV",
@@ -274,7 +289,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "ESPN8: The Ocho",
@@ -290,7 +305,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "PFL",
@@ -298,7 +313,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "Red Bull TV",
@@ -362,7 +377,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "CW Forever",
@@ -402,7 +417,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "FilmRise Western",
@@ -450,7 +465,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "Universal Action",
@@ -458,7 +473,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "Universal Crime",
@@ -466,7 +481,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Universal Western",
@@ -482,7 +497,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "Sony One Action HITS UK",
@@ -514,7 +529,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "Love Nature 4K",
@@ -594,7 +609,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 72
     },
     {
       "channel": "RMC Story FR",
@@ -602,7 +617,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "CTV @ Home CA",
@@ -618,7 +633,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 89
     },
     {
       "channel": "CTV Laughs CA",
@@ -626,7 +641,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "Stingray DJAZZ",
@@ -634,39 +649,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
-    },
-    {
-      "channel": "Vevo '70s",
-      "url": "https://aka-live1050.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-origin/out/v1/live_1080.m3u8",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 89
-    },
-    {
-      "channel": "Vevo '80s",
-      "url": "https://aka-live1050.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b0128c/t2-origin/out/v1/live_1080.m3u8",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 89
-    },
-    {
-      "channel": "Vevo 2K",
-      "url": "https://aka-live1050.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live_1080.m3u8",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 89
-    },
-    {
-      "channel": "Vevo Country",
-      "url": "https://aka-live1050.delivery.roku.com/c852fbec-cd06-4040-904b-9a9481647a94/t2-origin/out/v1/live_1080.m3u8",
-      "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "XITE 80s Flashback",
@@ -674,7 +657,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "XITE 90s Throwback",
@@ -682,7 +665,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 74
     },
     {
       "channel": "XITE Hits",
@@ -698,7 +681,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "XITE Nuevo Latino",
@@ -706,7 +689,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "XITE Rock x Metal",
@@ -714,7 +697,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "XITE Spring Vibes",
@@ -722,7 +705,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 71
+      "video_packets": 74
     },
     {
       "channel": "Deluxe Dance By Kontor DE",
@@ -730,7 +713,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "Deluxe RAP DE",
@@ -738,7 +721,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 66
     },
     {
       "channel": "TV BRICS Chinese",
@@ -754,7 +737,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 72
     },
     {
       "channel": "France 24 English",
@@ -762,7 +745,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     }
   ]
 }
