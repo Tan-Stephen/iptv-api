@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-07 17:04:02",
-  "input_entries": 87,
-  "unique_urls": 87,
-  "valid_entries": 86,
-  "valid_channels": 86,
+  "generated_at": "2026-10-09 16:40:31",
+  "input_entries": 86,
+  "unique_urls": 86,
+  "valid_entries": 85,
+  "valid_channels": 85,
   "invalid_entries": [
     {
-      "channel": "UFC",
-      "url": "https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8",
-      "error": "https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8: Server returned 5XX Server Error reply"
+      "channel": "FilmRise British TV",
+      "url": "https://aka-live1050.delivery.roku.com/d83b2941-9473-4d27-adb0-aec056e72ef8/t2-origin/out/v1/live_720.m3u8",
+      "error": "https://aka-live1050.delivery.roku.com/d83b2941-9473-4d27-adb0-aec056e72ef8/t2-origin/out/v1/live_720.m3u8: Invalid data found when processing input"
     }
   ],
   "valid_streams": [
@@ -18,7 +18,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CCTV-3",
@@ -26,7 +26,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-4",
@@ -34,7 +34,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "CCTV-7",
@@ -42,7 +42,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-8",
@@ -66,7 +66,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "CCTV-12",
@@ -74,7 +74,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-14",
@@ -122,7 +122,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "湖南卫视",
@@ -130,7 +130,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 75
     },
     {
       "channel": "东方卫视",
@@ -138,7 +138,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "河北卫视",
@@ -146,7 +146,7 @@
       "codec": "h264",
       "width": 3840,
       "height": 2160,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "江苏卫视",
@@ -162,7 +162,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 72
     },
     {
       "channel": "CNN",
@@ -194,7 +194,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "Reuters",
@@ -258,7 +258,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "BBC Antiques Roadshow UK",
@@ -274,7 +274,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "ESPN8: The Ocho",
@@ -330,7 +330,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "TSN The Ocho CA",
@@ -357,14 +357,6 @@
       "video_packets": 90
     },
     {
-      "channel": "FilmRise British TV",
-      "url": "https://aka-live1050.delivery.roku.com/d83b2941-9473-4d27-adb0-aec056e72ef8/t2-origin/out/v1/live_720.m3u8",
-      "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 89
-    },
-    {
       "channel": "FilmRise Classic TV",
       "url": "https://aka-live1050.delivery.roku.com/9f8d19b2-1dfc-432a-bc3e-e1dacf2f0e4e/t2-origin/out/v1/live_720.m3u8",
       "codec": "h264",
@@ -378,7 +370,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 88
+      "video_packets": 87
     },
     {
       "channel": "FilmRise Western",
@@ -450,7 +442,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "BritBox Mysteries UK",
@@ -458,7 +450,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 85
+      "video_packets": 90
     },
     {
       "channel": "Sony One Action HITS UK",
@@ -498,7 +490,7 @@
       "codec": "hevc",
       "width": 3840,
       "height": 2160,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "FilmRise Mysteries",
@@ -514,7 +506,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "MagellanTV Wildest",
@@ -570,7 +562,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "CTV @ Home CA",
@@ -594,7 +586,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "Stingray DJAZZ",
@@ -602,7 +594,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "XITE 80s Flashback",
@@ -610,7 +602,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "XITE 90s Throwback",
@@ -618,7 +610,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "XITE Hits",
@@ -626,7 +618,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "XITE Just Chill",
@@ -642,7 +634,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "XITE Rock x Metal",
@@ -658,7 +650,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "Deluxe Dance By Kontor DE",
@@ -666,7 +658,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "Deluxe RAP DE",
@@ -674,7 +666,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 75
     },
     {
       "channel": "TV BRICS Chinese",
