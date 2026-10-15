@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13 17:12:34",
+  "generated_at": "2026-10-15 14:31:06",
   "input_entries": 85,
   "unique_urls": 85,
   "valid_entries": 85,
@@ -20,7 +20,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-4",
@@ -36,7 +36,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "CCTV-8",
@@ -68,7 +68,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "CCTV-14",
@@ -76,7 +76,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 72
     },
     {
       "channel": "CCTV-15",
@@ -84,7 +84,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 75
     },
     {
       "channel": "CCTV-17",
@@ -108,7 +108,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "浙江卫视",
@@ -140,7 +140,7 @@
       "codec": "h264",
       "width": 3840,
       "height": 2160,
-      "video_packets": 75
+      "video_packets": 73
     },
     {
       "channel": "江苏卫视",
@@ -316,7 +316,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 84
+      "video_packets": 90
     },
     {
       "channel": "Women's Sports Network",
@@ -404,7 +404,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 88
     },
     {
       "channel": "Universal Movies",
@@ -412,7 +412,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "Universal Action",
@@ -420,7 +420,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 87
+      "video_packets": 89
     },
     {
       "channel": "Universal Crime",
@@ -484,7 +484,7 @@
       "codec": "hevc",
       "width": 3840,
       "height": 2160,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "FilmRise Mysteries",
@@ -524,7 +524,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "Comet",
@@ -564,7 +564,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "CTV Gets Real CA",
@@ -596,7 +596,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "XITE 90s Throwback",
@@ -612,7 +612,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 75
     },
     {
       "channel": "XITE Just Chill",
@@ -620,7 +620,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 74
     },
     {
       "channel": "XITE Nuevo Latino",
@@ -628,7 +628,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 72
     },
     {
       "channel": "XITE Rock x Metal",
@@ -636,7 +636,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "XITE Spring Vibes",
@@ -652,7 +652,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "Deluxe RAP DE",
@@ -660,7 +660,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "TV BRICS Chinese",
@@ -676,7 +676,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "France 24 English",
@@ -684,7 +684,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 73
     }
   ]
 }
