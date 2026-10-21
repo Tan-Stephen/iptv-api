@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19 16:41:54",
+  "generated_at": "2026-10-21 14:44:29",
   "input_entries": 83,
   "unique_urls": 83,
   "valid_entries": 83,
@@ -12,7 +12,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-3",
@@ -20,7 +20,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-4",
@@ -44,7 +44,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 88
+      "video_packets": 73
     },
     {
       "channel": "CCTV-10",
@@ -52,7 +52,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "CCTV-11",
@@ -68,7 +68,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 72
     },
     {
       "channel": "CCTV-14",
@@ -84,7 +84,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "CCTV-17",
@@ -92,7 +92,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "CGTN CN",
@@ -106,9 +106,9 @@
       "channel": "广东卫视",
       "url": "http://74.91.26.218:82/live/gdwshd.m3u8",
       "codec": "h264",
-      "width": 1920,
-      "height": 1080,
-      "video_packets": 73
+      "width": 1280,
+      "height": 720,
+      "video_packets": 87
     },
     {
       "channel": "浙江卫视",
@@ -116,7 +116,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 73
     },
     {
       "channel": "湖南卫视",
@@ -124,7 +124,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "东方卫视",
@@ -132,7 +132,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 73
+      "video_packets": 74
     },
     {
       "channel": "河北卫视",
@@ -140,7 +140,7 @@
       "codec": "h264",
       "width": 3840,
       "height": 2160,
-      "video_packets": 73
+      "video_packets": 75
     },
     {
       "channel": "江苏卫视",
@@ -188,7 +188,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 90
+      "video_packets": 88
     },
     {
       "channel": "Reuters",
@@ -228,7 +228,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 153
+      "video_packets": 151
     },
     {
       "channel": "TRT World TR",
@@ -244,7 +244,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 179
+      "video_packets": 180
     },
     {
       "channel": "CNN Originals",
@@ -252,7 +252,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 88
     },
     {
       "channel": "BBC Antiques Roadshow UK",
@@ -316,7 +316,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 83
+      "video_packets": 90
     },
     {
       "channel": "Women's Sports Network",
@@ -340,7 +340,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 90
     },
     {
       "channel": "CW Forever",
@@ -404,7 +404,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "Universal Crime",
@@ -412,7 +412,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "Universal Western",
@@ -420,7 +420,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 89
+      "video_packets": 90
     },
     {
       "channel": "BritBox Mysteries UK",
@@ -476,7 +476,7 @@
       "codec": "h264",
       "width": 1280,
       "height": 720,
-      "video_packets": 89
+      "video_packets": 87
     },
     {
       "channel": "FilmRise True Crime",
@@ -556,7 +556,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 88
+      "video_packets": 89
     },
     {
       "channel": "CTV Laughs CA",
@@ -572,7 +572,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 86
+      "video_packets": 87
     },
     {
       "channel": "XITE 80s Flashback",
@@ -588,7 +588,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 71
+      "video_packets": 72
     },
     {
       "channel": "XITE Hits",
@@ -596,7 +596,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 74
     },
     {
       "channel": "XITE Just Chill",
@@ -620,7 +620,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 72
+      "video_packets": 73
     },
     {
       "channel": "XITE Spring Vibes",
@@ -628,15 +628,15 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 74
+      "video_packets": 75
     },
     {
       "channel": "Deluxe Dance By Kontor DE",
       "url": "https://d37i8mvsaxucfl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0785d94zsjwwd/5ad2bbc2-9a48-4959-8c7a-e94242429fa0/3.m3u8",
       "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "video_packets": 75
+      "width": 1920,
+      "height": 1080,
+      "video_packets": 78
     },
     {
       "channel": "Deluxe RAP DE",
@@ -644,7 +644,7 @@
       "codec": "h264",
       "width": 1920,
       "height": 1080,
-      "video_packets": 75
+      "video_packets": 76
     },
     {
       "channel": "TV BRICS Chinese",
